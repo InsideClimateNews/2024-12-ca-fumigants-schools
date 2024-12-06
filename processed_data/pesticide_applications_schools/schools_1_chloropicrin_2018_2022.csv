@@ -1,0 +1,780 @@
+cds_code,status,charter,ed_type,level,pb_prv_bie,school,district,county,street,city,state,stacked,stack_cnt,grades_offered,grades_served,pounds_chloropicrin_intersection
+56725465634761,Active,No,Traditional,High School,Public,Rio Mesa High,Oxnard Union High,Ventura,545 Central Avenue,Oxnard,CA,No,1,9-12,9-12,855502.7119339858
+56105615630223,Active,No,Juvenile Court School,High School,Public,Providence,Ventura County Office of Education,Ventura,4333 Vineyard Avenue,Oxnard,CA,No,1,K-12,9-12,575532.6623817709
+56725120118265,Active,No,Traditional,Elementary,Public,Ocean View Early Education,Ocean View,Ventura,4600 Olds Road,Oxnard,CA,Yes,3,P,K,493467.6554659623
+56725126055172,Active,No,Traditional,Elementary,Public,Mar Vista Elementary,Ocean View,Ventura,2382 Etting Road,Oxnard,CA,Yes,3,K-5,K-5,493467.6554659623
+56725126084891,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Ocean View Junior High,Ocean View,Ventura,4300 Olds Road,Oxnard,CA,Yes,3,6-8,6-8,493467.6554659623
+56725386100333,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Lemonwood Elementary,Oxnard,Ventura,2001 San Mateo Place,Oxnard,CA,No,1,K-8,K-8,460327.92833666044
+27661916102925,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Gavilan View Middle,Santa Rita Union Elementary,Monterey,18250 Vab Buren Avenue,Salinas,CA,No,1,6-8,6-8,459165.9643261482
+56725616055511,Active,No,Traditional,Elementary,Public,Rio Plaza Elementary,Rio Elementary,Ventura,600 Simon Way,Oxnard,CA,No,1,K-5,K-5,448586.04989115393
+42693100102285,Active,No,Traditional,High School,Public,Pioneer Valley High,Santa Maria Joint Union High,Santa Barbara,675 Panther Drive,Santa Maria,CA,No,1,9-12,9-12,447008.81287310895
+56725126055180,Active,No,Traditional,Elementary,Public,Tierra Vista Elementary,Ocean View,Ventura,2001 Sanford Street,Oxnard,CA,No,1,K-5,K-5,424853.55781517987
+27661910122911,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Bolsa Knolls Middle,Santa Rita Union Elementary,Monterey,1031 Rogge Road,Salinas,CA,No,1,6-8,6-8,415404.12261851615
+44697996049753,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Pajaro Middle,Pajaro Valley Unified,Monterey,250 Salinas Road,Watsonville,CA,No,1,6-8,6-8,405876.39833692816
+56725465634548,Active,No,Traditional,High School,Public,Oxnard High,Oxnard Union High,Ventura,3400 West Gonzales Road,Oxnard,CA,No,1,9-12,9-12,394104.0653429414
+56725616055495,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Rio del Valle Middle,Rio Elementary,Ventura,3100 Rose Avenue,Oxnard,CA,No,1,6-8,6-8,388471.83467487874
+56725460136804,Active,No,Alternative School of Choice,Intermediate/Middle/Junior High,Public,Oxnard Middle College High,Oxnard Union High,Ventura,4000 South Rose Avenue,Oxnard,CA,No,1,9-12,9-10,386386.294455157
+42691206045975,Active,No,Traditional,Elementary,Public,Arellanes (Don Juan Bautista) Elementary,Santa Maria-Bonita,Santa Barbara,1890 Sandalwood Drive,Santa Maria,CA,Yes,2,K-6,K-6,379439.0604652609
+42691206119820,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Arellanes Junior High,Santa Maria-Bonita,Santa Barbara,1890 Sandalwood Drive,Santa Maria,CA,Yes,2,7-8,7-8,379439.0604652609
+44697996108138,Active,No,Traditional,Elementary,Public,Ohlone Elementary,Pajaro Valley Unified,Monterey,21 Bay Farms Road,Watsonville,CA,No,1,K-5,K-5,378705.6866882701
+27661916026652,Active,No,Traditional,Elementary,Public,La Joya Elementary,Santa Rita Union Elementary,Monterey,55 Rogge Road,Salinas,CA,No,1,K-5,K-5,376523.42509143264
+42691206045272,Active,No,Traditional,Elementary,Public,Bonita Elementary,Santa Maria-Bonita,Santa Barbara,2715 West Main Street,Santa Maria,CA,No,1,K-6,K-6,374611.45662006736
+34322765637780,Active,No,Youth Authority School,High School,Public,Mary B. Perry High,California Education Authority (CEA) Headquarters,Ventura,3100 Wright Road,Camarillo,CA,No,1,9-12,9-12,373836.943081448
+56724705630363,Active,Yes,Traditional,Elementary - High Combination,Public,Golden Valley Charter,Mesa Union Elementary,Ventura,"3585 Maple Street, Suite 101",Ventura,CA,No,1,K-12,K-12,367098.0729035543
+27661590136697,Active,No,Traditional,High School,Public,Rancho San Juan High,Salinas Union High,Monterey,1100 Rogge Road,Salinas,CA,No,1,9-12,9-12,355924.84952236473
+27659610127456,Active,No,Traditional,Elementary,Public,Monte Bella Elementary,Alisal Union,Monterey,1300 Tuscany Boulevard,Salinas,CA,No,1,K-6,K-6,348587.04890285805
+42691200139824,Active,No,Traditional,Elementary,Public,Bill Libbon Elementary,Santa Maria-Bonita,Santa Barbara,750 Meehan Street,Santa Maria,CA,No,1,K-6,No Data,328108.33941927634
+56725386055370,Active,No,Traditional,Elementary,Public,Rose Avenue Elementary,Oxnard,Ventura,220 South Driskill Street,Oxnard,CA,No,1,K-5,K-5,320322.3485552778
+56725380119412,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Juan Lagunas Soria Elementary,Oxnard,Ventura,3101 Dunkirk Drive,Oxnard,CA,No,1,K-8,K-8,309599.01704880426
+56725126055164,Active,No,Traditional,Elementary,Public,Laguna Vista Elementary,Ocean View,Ventura,5084 Etting Road,Oxnard,CA,No,1,K-5,K-5,307057.8058096539
+40687590110486,Active,No,Traditional,Elementary,Public,Lange (Dorothea) Elementary,Lucia Mar Unified,San Luis Obispo,1661 Via Alta Mesa,Nipomo,CA,No,1,K-6,K-6,303021.4785733266
+27661916026660,Active,No,Traditional,Elementary,Public,Santa Rita Elementary,Santa Rita Union Elementary,Monterey,2014 South Santa Rita Street,Salinas,CA,No,1,K-5,K-5,300293.51368963235
+42691200102863,Active,No,Traditional,Elementary,Public,Liberty Elementary,Santa Maria-Bonita,Santa Barbara,1300 West Sonya Lane,Santa Maria,CA,No,1,K-6,K-6,299635.40161615604
+42691206046049,Active,No,Traditional,Elementary,Public,Oakley (Calvin C.) Elementary,Santa Maria-Bonita,Santa Barbara,1120 West Harding Street,Santa Maria,CA,No,1,K-6,K-6,276600.3512939223
+27659616025985,Active,No,Traditional,Elementary,Public,Bardin Elementary,Alisal Union,Monterey,425 Bardin Road,Salinas,CA,No,1,K-6,K-6,243617.3654237253
+27659616117691,Active,No,Traditional,Elementary,Public,Oscar F. Loya Elementary,Alisal Union,Monterey,1505 Cougar Drive,Salinas,CA,No,1,K-6,K-6,238969.10402898522
+37684520118430,Active,No,Alternative School of Choice,High School,Public,Mission Vista High,Vista Unified,San Diego,1306 Melrose Drive,Oceanside,CA,No,1,9-12,9-12,223570.03259973682
+27661592730109,Active,No,Traditional,High School,Public,Alisal High,Salinas Union High,Monterey,777 Williams Road,Salinas,CA,No,1,9-12,9-12,223516.4873686095
+56725610112631,Active,No,Traditional,Elementary,Public,Rio Del Mar,Rio Elementary,Ventura,3150 Thames River,Oxnard,CA,No,1,K-5,K-5,220972.78088909658
+44697996117253,Active,No,Traditional,Elementary,Public,Ann Soldo Elementary,Pajaro Valley Unified,Santa Cruz,1140 Menasco Drive,Watsonville,CA,No,1,K-5,K-5,219769.78244800185
+42691206107007,Active,No,Traditional,Elementary,Public,Battles (Washington) Elementary,Santa Maria-Bonita,Santa Barbara,605 East Battles Road,Santa Maria,CA,No,1,K-6,K-6,202761.29763559316
+56726526056055,Active,No,Traditional,Elementary,Public,Blanche Reynolds Elementary,Ventura Unified,Ventura,450 Valmore Avenue,Ventura,CA,Yes,2,K-5,K-5,196881.88965685148
+56726526115687,Active,No,Alternative School of Choice,Elementary - Intermediate/Middle/Junior High Combination,Public,Homestead (Alternative),Ventura Unified,Ventura,450 Valmore Avenue,Ventura,CA,Yes,2,K-8,1-8,196881.88965685148
+27661592730166,Active,No,Traditional,High School,Public,Everett Alvarez High,Salinas Union High,Monterey,1900 Independence Boulevard,Salinas,CA,No,1,9-12,9-12,195569.41507674605
+56725380100362,Active,No,Traditional,Elementary,Public,Thurgood Marshall Elementary,Oxnard,Ventura,2900 Thurgood Marshall Drive,Oxnard,CA,No,1,K-8,K-7,194411.040985272
+44697994437901,Active,No,Traditional,High School,Public,Watsonville High,Pajaro Valley Unified,Santa Cruz,250 East Beach Street,Watsonville,CA,No,1,9-12,9-12,191232.56306455072
+56725616055529,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Rio Real Elementary,Rio Elementary,Ventura,1140 Kenney Street,Oxnard,CA,No,1,K-8,K-8,185668.22727618853
+56724626055057,Active,No,Traditional,Elementary,Public,Fred L. Williams Elementary,Hueneme Elementary,Ventura,4300 Anchorage Street,Oxnard,CA,No,1,K-5,K-5,184715.1063720042
+44697996112841,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Lakeview Middle,Pajaro Valley Unified,Santa Cruz,2350 East Lake Avenue,Watsonville,CA,No,1,6-8,6-8,183646.08654252617
+27660766026140,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Lagunita Elementary,Lagunita Elementary,Monterey,975 San Juan Grade Road,Salinas,CA,No,1,K-8,K-8,169624.42497898123
+42691206046015,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Fesler (Isaac) Junior High,Santa Maria-Bonita,Santa Barbara,1100 East Fesler Street,Santa Maria,CA,No,1,7-8,7-8,165439.53894092666
+56726525637814,Active,No,Traditional,High School,Public,Ventura Adult and Continuing Education,Ventura Unified,Ventura,5200 Valentine Road,Ventura,CA,No,1,Adult,12,164657.79805819382
+56726526056105,Active,No,Traditional,Elementary,Public,Junipero Serra Elementary,Ventura Unified,Ventura,8880 Halifax Street,Ventura,CA,No,1,K-5,K-5,164380.2401810192
+56725386110738,Active,No,Traditional,Elementary,Public,Emilie Ritchen Elementary,Oxnard,Ventura,2200 Cabrillo Way,Oxnard,CA,No,1,K-5,K-5,164051.64668806895
+56725610113977,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Rio Vista Middle,Rio Elementary,Ventura,3050 Thames River Drive,Oxnard,CA,No,1,6-8,6-8,163139.3511434867
+42691206109268,Active,No,Traditional,Elementary,Public,Ontiveros (Juan Pacifico) Elementary,Santa Maria-Bonita,Santa Barbara,930 West Rancho Verde,Santa Maria,CA,No,1,K-6,K-6,159431.7508141833
+42691200131623,Active,No,Traditional,Elementary,Public,Jiménez Roberto and Dr. Francisco Elementary,Santa Maria-Bonita,Santa Barbara,1970 South Biscayne Street,Santa Maria,CA,No,1,K-7,K-6,158286.09919625556
+44697996049803,Active,No,Traditional,Elementary,Public,T. S. MacQuiddy Elementary,Pajaro Valley Unified,Santa Cruz,330 Martinelli Street,Watsonville,CA,No,1,K-5,K-5,156040.6079924597
+44697994437794,Active,No,Continuation School,High School,Public,Renaissance High Continuation,Pajaro Valley Unified,Santa Cruz,11 Spring Valley Road,La Selva Beach,CA,No,1,9-12,10-12,154895.21445767145
+44697996049720,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Linscott Charter,Pajaro Valley Unified,Santa Cruz,220 Elm Street,Watsonville,CA,No,1,K-8,K-8,153838.91782233745
+42691206046031,Active,No,Traditional,Elementary,Public,Miller (Isaac) Elementary,Santa Maria-Bonita,Santa Barbara,410 East Camino Colegio,Santa Maria,CA,No,1,K-6,K-6,149093.4528206221
+27659616025977,Active,No,Traditional,Elementary,Public,Alisal Community,Alisal Union,Monterey,1437 Del Monte Avenue,Salinas,CA,No,1,K-6,K-6,144519.27266677393
+47736846050843,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Butte Valley Elementary,Butte Valley Unified,Siskiyou,615 West Third Street,Dorris,CA,No,1,K-8,K-8,142713.40362194247
+27661426066963,Active,No,Traditional,Elementary,Public,University Park Elementary,Salinas City Elementary,Monterey,833 West Acacia Street,Salinas,CA,No,1,K-6,K-6,134701.39912095986
+27659616115232,Active,No,Traditional,Elementary,Public,Creekside Elementary,Alisal Union,Monterey,1770 Kittery Street,Salinas,CA,No,1,K-6,K-6,129108.4372780808
+42693104234613,Active,No,Traditional,High School,Public,Ernest Righetti High,Santa Maria Joint Union High,Santa Barbara,941 East Foster Road,Santa Maria,CA,No,1,9-12,9-12,126862.91237794443
+27659616109466,Active,No,Traditional,Elementary,Public,John E. Steinbeck Elementary,Alisal Union,Monterey,1714 Burlington Drive,Salinas,CA,No,1,K-6,K-6,126244.3516360443
+56726526056212,Active,No,Traditional,Elementary,Public,Sheridan Way Elementary,Ventura Unified,Ventura,573 Sheridan Way,Ventura,CA,No,1,K-5,K-5,125699.52262447751
+44697996049712,Active,No,Traditional,Elementary,Public,Hall District Elementary,Pajaro Valley Unified,Monterey,300 Sill Road,Watsonville,CA,No,1,K-5,K-5,125165.88772637688
+44697990117804,Active,Yes,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Ceiba College Preparatory Academy,Pajaro Valley Unified,Santa Cruz,260 West Riverside Drive,Watsonville,CA,No,1,6-12,6-12,119830.17587292462
+56725616118061,Active,No,Traditional,Elementary,Public,Rio Rosales,Rio Elementary,Ventura,1001 Kohala Street,Oxnard,CA,No,1,K-5,K-5,118917.5296472177
+27738252730125,Active,No,Alternative School of Choice,Elementary - High Combination,Public,North Monterey County Center for Independent Study,North Monterey County Unified,Monterey,17500 Pesante Road,Salinas,CA,Yes,2,K-12,K-12,116963.26403848812
+27738252730141,Active,No,Continuation School,High School,Public,Central Bay High (Continuation),North Monterey County Unified,Monterey,17500 Pesante Road,Salinas,CA,Yes,2,9-12,10-12,116963.26403848812
+44697994430229,Active,Yes,Traditional,Elementary - High Combination,Public,Pacific Coast Charter,Pajaro Valley Unified,Santa Cruz,294 Green Valley Road,Watsonville,CA,No,1,K-12,1-12,116839.29929098986
+42691200102855,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Kunst (Tommie) Junior High,Santa Maria-Bonita,Santa Barbara,930 Hidden Pines Way,Santa Maria,CA,No,1,7-8,7-8,115954.01846303932
+56725386107551,Active,No,Traditional,Elementary,Public,Christa McAuliffe Elementary,Oxnard,Ventura,3300 West Via Marina Avenue,Oxnard,CA,No,1,K-5,K-5,114589.30980653767
+42691200102848,Active,No,Traditional,Elementary,Public,Sanchez (David J.) Elementary,Santa Maria-Bonita,Santa Barbara,804 West Liberty Street,Santa Maria,CA,No,1,K-6,K-6,114440.0036987879
+44697996049688,Active,No,Traditional,Intermediate/Middle/Junior High,Public,E. A. Hall Middle,Pajaro Valley Unified,Santa Cruz,201 Brewington Avenue,Watsonville,CA,Yes,2,6-8,6-8,112955.78519248293
+44772480138909,Active,Yes,Traditional,Elementary,Public,Watsonville Prep,SBE - Watsonville Prep,Santa Cruz,201 Brewington Avenue,Watsonville,CA,Yes,2,K-8,K-2,112844.52777597561
+56725465631742,Active,No,Traditional,High School,Public,Channel Islands High,Oxnard Union High,Ventura,1400 Raiders Way,Oxnard,CA,No,1,9-12,9-12,111175.08115297245
+27738256026413,Active,No,Traditional,Elementary,Public,Elkhorn Elementary,North Monterey County Unified,Monterey,2235 Elkhorn Road,Castroville,CA,No,1,K-6,K-6,109156.18495638909
+42691206046007,Active,No,Traditional,Elementary,Public,Fairlawn Elementary,Santa Maria-Bonita,Santa Barbara,120 North Mary Drive,Santa Maria,CA,No,1,K-6,K-6,104884.41002955366
+42692290100651,Active,No,Alternative School of Choice,Elementary - Intermediate/Middle/Junior High Combination,Public,Mission Valley,Lompoc Unified,Santa Barbara,1301 North A Street,Lompoc,CA,Yes,2,K-8,K-8,104632.55694573178
+42692296045629,Active,No,Traditional,Elementary,Public,La Honda STEAM Academy,Lompoc Unified,Santa Barbara,1213 North A Street,Lompoc,CA,Yes,2,K-6,K-6,104632.55694573178
+27660276026108,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Graves Elementary,Graves Elementary,Monterey,15 McFadden Road,Salinas,CA,No,1,K-8,K-8,102534.97501293906
+56726526056170,Active,No,Traditional,Elementary,Public,Pierpont Elementary,Ventura Unified,Ventura,1254 Marthas Vineyard Court,Ventura,CA,No,1,K-5,K-5,98857.18036714452
+56725610137018,Active,No,Traditional,Elementary,Public,Rio del Sol,Rio Elementary,Ventura,3001 North Ventura Road,Oxnard,CA,No,1,K-8,K-7,98781.01248836385
+56725530110502,Active,No,Traditional,Elementary,Public,Rancho Rosal Elementary,Pleasant Valley,Ventura,3535 Village at the Park Drive,Camarillo,CA,No,1,K-5,K-5,98637.3608620879
+27661916120224,Active,No,Traditional,Elementary,Public,McKinnon,Santa Rita Union Elementary,Monterey,2100 McKinnon,Salinas,CA,No,1,K-5,K-5,96846.74204019002
+44697996049746,Active,No,Traditional,Elementary,Public,Mintie White Elementary,Pajaro Valley Unified,Santa Cruz,515 Palm Avenue,Watsonville,CA,No,1,K-5,K-5,95174.68554893832
+44697996049639,Active,No,Traditional,Elementary,Public,Amesti Elementary,Pajaro Valley Unified,Santa Cruz,25 Amesti Road,Watsonville,CA,No,1,K-5,K-5,92664.17459703471
+42691206046064,Active,No,Traditional,Elementary,Public,Bruce (Robert) Elementary,Santa Maria-Bonita,Santa Barbara,601 West Alvin Avenue,Santa Maria,CA,No,1,K-6,K-6,89751.73771157496
+42692606045736,Active,No,Traditional,Elementary,Public,Alice Shaw Elementary,Orcutt Union Elementary,Santa Barbara,759 Dahlia Place,Santa Maria,CA,No,1,K-6,K-6,89504.50686287157
+56726526097034,Active,No,Traditional,Elementary,Public,Portola Elementary,Ventura Unified,Ventura,6700 Eagle Street,Ventura,CA,No,1,K-5,K-5,87385.15823475775
+27738256026447,Active,No,Traditional,Elementary,Public,Prunedale Elementary,North Monterey County Unified,Monterey,17719 Pesante Road,Salinas,CA,No,1,K-6,K-6,87137.92437670159
+27661426026579,Active,No,Traditional,Elementary,Public,Mission Park Elementary,Salinas City Elementary,Monterey,403 West Acacia Street,Salinas,CA,No,1,K-6,K-6,86464.93226404843
+27661596118129,Active,No,Traditional,Intermediate/Middle/Junior High,Public,La Paz Middle,Salinas Union High,Monterey,1300 North Sanborn Road,Salinas,CA,No,1,7-8,7-8,84547.67571112372
+27661910107391,Active,No,Traditional,Elementary,Public,New Republic Elementary,Santa Rita Union Elementary,Monterey,636 Arcadia Way,Salinas,CA,No,1,K-5,K-5,83585.76415269001
+56726525630272,Active,No,Continuation School,High School,Public,Pacific High,Ventura Unified,Ventura,501 College Drive,Ventura,CA,No,1,9-12,9-12,83563.48037769327
+27659616113542,Active,No,Traditional,Elementary,Public,Cesar E. Chavez Elementary,Alisal Union,Monterey,1225 Towt Street,Salinas,CA,No,1,K-6,K-6,83321.4048480641
+44104470136572,Active,Yes,Traditional,High School,Public,Santa Cruz County Career Advancement Charter,Santa Cruz County Office of Education,Santa Cruz,229 Green Valley Road,Freedom,CA,No,1,12,12,81993.34997448469
+42691206045959,Active,No,Traditional,Elementary,Public,Adam (William Laird) Elementary,Santa Maria-Bonita,Santa Barbara,500 West Windsor,Santa Maria,CA,No,1,K-6,K-6,81947.28805942857
+42693104236030,Active,No,Traditional,High School,Public,Santa Maria High,Santa Maria Joint Union High,Santa Barbara,901 South Broadway,Santa Maria,CA,No,1,9-12,9-12,80572.8272505412
+56726526056147,Active,No,Traditional,Elementary,Public,Montalvo Elementary,Ventura Unified,Ventura,2050 Grand Avenue,Ventura,CA,No,1,K-5,K-5,71504.6973432645
+42692296045645,Active,No,Traditional,Elementary,Public,Leonora Fillmore Elementary,Lompoc Unified,Santa Barbara,1211 East Pine Avenue,Lompoc,CA,No,1,K-6,K-6,70644.35643393753
+27662256026694,Active,No,Traditional,Elementary,Public,Spreckels Elementary,Spreckels Union Elementary,Monterey,Fourth Street and Hatton Avenue,Spreckels,CA,No,1,K-5,K-5,69514.58605047814
+27738252730034,Active,No,Traditional,High School,Public,North Monterey County High,North Monterey County Unified,Monterey,13990 Castroville Boulevard,Castroville,CA,No,1,9-12,9-12,68401.62698069231
+44697996049829,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Alianza Charter,Pajaro Valley Unified,Santa Cruz,115 Casserly Road,Watsonville,CA,Yes,2,K-8,K-8,68084.99403613596
+44697996119077,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Watsonville Charter School of the Arts,Pajaro Valley Unified,Santa Cruz,"115 Casserly Road, West Campus",Watsonville,CA,Yes,2,K-8,K-8,68084.99403613596
+56725386055321,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Cesar E. Chavez Elementary,Oxnard,Ventura,301 North Marquita Street,Oxnard,CA,No,1,K-8,K-8,67543.84304646078
+27659616101802,Active,No,Traditional,Elementary,Public,Frank Paul Elementary,Alisal Union,Monterey,1300 Rider Avenue,Salinas,CA,No,1,K-6,K-6,66986.9337385683
+27661426026553,Active,No,Traditional,Elementary,Public,Loma Vista Elementary,Salinas City Elementary,Monterey,757 Sausal Drive,Salinas,CA,No,1,K-6,K-6,65776.16557607835
+56725460125674,Active,No,Alternative School of Choice,High School,Public,Condor High,Oxnard Union High,Ventura,1101 West Second Street,Oxnard,CA,No,1,9-12,9-12,65409.00236565454
+42692606045744,Active,No,Traditional,Elementary,Public,Ralph Dunlap Elementary,Orcutt Union Elementary,Santa Barbara,1220 Oak Knoll Road,Santa Maria,CA,No,1,K-6,K-6,65044.42411372297
+56725386055313,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Fremont Academy of Environmental Science & Innovative Design,Oxnard,Ventura,1130 North M Street,Oxnard,CA,No,1,6-8,6-8,64332.42368315757
+44697996049704,Active,No,Traditional,Elementary,Public,H. A. Hyde Elementary,Pajaro Valley Unified,Santa Cruz,125 Alta Vista Street,Watsonville,CA,No,1,K-5,K-5,62305.614333553334
+40687596043095,Active,No,Traditional,Elementary,Public,Oceano Elementary,Lucia Mar Unified,San Luis Obispo,1551 17th Street,Oceano,CA,No,1,K-6,K-6,60881.335459602444
+56725386055362,Active,No,Traditional,Elementary,Public,Ramona Elementary,Oxnard,Ventura,804 Cooper Road,Oxnard,CA,No,1,K-5,K-5,59558.50002982415
+47736844730081,Active,No,Continuation School,Intermediate/Middle/Junior High,Public,Cascade High,Butte Valley Unified,Siskiyou,615 West Third,Dorris,CA,Yes,3,9-12,9-10,57780.41270847538
+47736844731253,Active,No,Traditional,High School,Public,Butte Valley High,Butte Valley Unified,Siskiyou,615 West Third Street,Dorris,CA,Yes,3,9-12,9-12,57780.41270847538
+47736846114607,Active,No,Community Day School,Elementary - Intermediate/Middle/Junior High Combination,Public,Picard Community Day Elementary,Butte Valley Unified,Siskiyou,615 West Third Street,Dorris,CA,Yes,3,K-8,1-8,57780.41270847538
+56725386055289,Active,No,Traditional,Elementary,Public,Elm Street Elementary,Oxnard,Ventura,450 East Elm Street,Oxnard,CA,No,1,K-5,K-5,57755.662083243864
+40687596043053,Active,No,Traditional,Elementary,Public,Harloe Elementary,Lucia Mar Unified,San Luis Obispo,901 Fair Oaks Avenue,Arroyo Grande,CA,No,1,K-6,K-6,57338.69197755184
+35752596049654,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Aromas,Aromas - San Juan Unified,Monterey,365 Vega Street,Aromas,CA,No,1,K-8,K-8,56879.0513993268
+56726526056238,Active,No,Traditional,Elementary,Public,Will Rogers Elementary,Ventura Unified,Ventura,316 Howard Street,Ventura,CA,No,1,K-5,K-5,56598.05646779176
+27661596058770,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Washington Middle,Salinas Union High,Monterey,560 Iverson Street,Salinas,CA,No,1,7-8,7-8,56327.46704706839
+44697996049670,Active,No,Traditional,Elementary,Public,Calabasas Elementary,Pajaro Valley Unified,Santa Cruz,202 Calabasas Road,Watsonville,CA,No,1,K-6,K-6,55661.93835352158
+27738256026397,Active,No,Traditional,Elementary,Public,Castroville Elementary,North Monterey County Unified,Monterey,11161 Merritt Street,Castroville,CA,No,1,K-6,K-6,55445.506960357605
+56725465631619,Active,No,Traditional,High School,Public,Adolfo Camarillo High,Oxnard Union High,Ventura,4660 Mission Oaks Boulevard,Camarillo,CA,No,1,9-12,9-12,54795.1761792836
+40687596043079,Active,No,Traditional,Elementary,Public,Fairgrove Elementary,Lucia Mar Unified,San Luis Obispo,2101 The Pike,Grover Beach,CA,No,1,K-6,K-6,50987.86808621802
+56726526056063,Active,No,Traditional,Elementary,Public,E. P. Foster Elementary,Ventura Unified,Ventura,20 Pleasant Place,Ventura,CA,No,1,K-5,K-5,50931.41474392391
+27738256026421,Active,No,Traditional,Intermediate/Middle/Junior High,Public,North Monterey County Middle,North Monterey County Unified,Monterey,10301 Seymour Street,Castroville,CA,No,1,7-8,7-8,48886.60143899094
+56724626055081,Active,No,Traditional,Elementary,Public,Julien Hathaway Elementary,Hueneme Elementary,Ventura,405 East Dollie Street,Oxnard,CA,No,1,K-5,K-5,48675.44870017537
+40687594030557,Active,No,Traditional,High School,Public,Arroyo Grande High,Lucia Mar Unified,San Luis Obispo,495 Valley Road,Arroyo Grande,CA,No,1,8-12,9-12,45319.87216405747
+44697990105858,Active,No,Traditional,High School,Public,Pajaro Valley High,Pajaro Valley Unified,Santa Cruz,500 Harkins Slough Road,Watsonville,CA,No,1,9-12,9-12,44844.73610697501
+42692036045512,Active,No,Traditional,Elementary,Public,Mary Buren Elementary,Guadalupe Union Elementary,Santa Barbara,1050 Peralta Street,Guadalupe,CA,No,1,P-4,K-4,44137.55754493371
+27661426026587,Active,No,Traditional,Elementary,Public,Monterey Park Elementary,Salinas City Elementary,Monterey,410 San Miguel Avenue,Salinas,CA,No,1,K-6,K-6,42543.430512879975
+37684526110407,Active,No,Traditional,Elementary,Public,Mission Meadows Elementary,Vista Unified,San Diego,5657 Spur Avenue,Oceanside,CA,No,1,K-5,K-5,39957.25221289475
+27661596110753,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Harden Middle,Salinas Union High,Monterey,1561 McKinnon Street,Salinas,CA,No,1,7-8,7-8,39450.650173230904
+56105616069231,Active,No,Special Education School,Elementary - High Combination,Public,Ventura County Special Education,Ventura County Office of Education,Ventura,5250 Adolfo Road,Camarillo,CA,No,1,P-12,K-12,38147.76750634983
+56105610135798,Active,No,Special Education School,Elementary - High Combination,Public,Triton Academy,Ventura County Office of Education,Ventura,5250 Adolfo Road,Camarillo,CA,No,1,3-12,3-12,37430.662260154204
+56724706055123,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Mesa Elementary,Mesa Union Elementary,Ventura,3901 North Mesa School Road,Somis,CA,No,1,K-8,K-8,36762.24255575486
+44697996049662,Active,No,Traditional,Elementary,Public,Bradley Elementary,Pajaro Valley Unified,Santa Cruz,321 Corralitos Road,Watsonville,CA,No,1,K-6,K-6,35482.194682615445
+39685933935111,Active,No,Continuation School,High School,Public,Calla High,Manteca Unified,San Joaquin,130 South Austin Road,Manteca,CA,No,1,9-12,11-12,34889.36101779411
+27102720116491,Active,Yes,County Community School,High School,Public,Open Door Charter,Monterey County Office of Education,Monterey,901 Blanco Circle,Salinas,CA,Yes,3,9-12,No Data,33789.71525770954
+27102722730232,Active,Yes,Traditional,Elementary - High Combination,Public,Monterey County Home Charter,Monterey County Office of Education,Monterey,901 Blanco Circle,Salinas,CA,Yes,3,K-12,K-12,33789.71525770954
+27102726069512,Active,No,Special Education School,Elementary - High Combination,Public,Monterey County Special Education,Monterey County Office of Education,Monterey,901 Blanco Circle,Salinas,CA,Yes,3,K-12,K-12,33789.71525770954
+56726526062145,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Anacapa Middle,Ventura Unified,Ventura,100 South Mills Road,Ventura,CA,No,1,6-8,6-8,33001.477458355075
+42691206046023,Active,No,Traditional,Elementary,Public,Tunnell (Martin Luther) Elementary,Santa Maria-Bonita,Santa Barbara,1248 East Dena Way,Santa Maria,CA,No,1,K-6,K-6,32874.39036914828
+27659616119663,Active,Yes,Traditional,Elementary,Public,Oasis Charter Public,Alisal Union,Monterey,1135 Westridge Parkway,Salinas,CA,No,1,K-6,K-6,32370.45298889929
+37735696088991,Active,No,Traditional,Elementary,Public,Del Rio Elementary,Oceanside Unified,San Diego,5200 North River Road,Oceanside,CA,No,1,K-5,K-5,32026.58004696582
+39685930105973,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Walter Woodward Elementary,Manteca Unified,San Joaquin,575 Tannehill Drive,Manteca,CA,No,1,K-8,K-8,31709.17397992271
+44697990102665,Active,No,Traditional,Elementary,Public,Radcliff Elementary,Pajaro Valley Unified,Santa Cruz,550 Rodriguez Street,Watsonville,CA,No,1,K-5,K-5,31675.286541566064
+42692606045777,Active,No,Traditional,Elementary,Public,Joe Nightingale Elementary,Orcutt Union Elementary,Santa Barbara,255 Winter Road,Santa Maria,CA,No,1,K-6,K-6,31523.453413231
+27661420132407,Active,No,Traditional,Elementary,Public,Boronda Elementary,Salinas City Elementary,Monterey,1114 Fontes Lane,Salinas,CA,No,1,K-6,K-4,31116.187212842968
+56725616055503,Active,No,Traditional,Elementary,Public,Rio Lindo Elementary,Rio Elementary,Ventura,2131 Snow Avenue,Oxnard,CA,No,1,K-5,K-5,30908.486987473072
+37768510110122,Active,No,Traditional,Elementary,Public,Bonsall West Elementary,Bonsall Unified,San Diego,5050 El Mirlo Drive,Oceanside,CA,No,1,K-6,K-6,30811.961156841717
+27660922730240,Active,Yes,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Learning for Life Charter,Monterey Peninsula Unified,Monterey,"3180 Imjin Road, Suite 110",Marina,CA,No,1,7-12,7-12,30790.577590600595
+27660926026249,Active,No,Traditional,Elementary,Public,Ione Olson Elementary,Monterey Peninsula Unified,Monterey,261 Beach Road,Marina,CA,No,1,K-5,K-5,30790.577590600595
+40687596109342,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Mesa Middle,Lucia Mar Unified,San Luis Obispo,2555 Halcyon Road,Arroyo Grande,CA,No,1,7-8,6-8,30602.526142655384
+56725386055263,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Curren Elementary,Oxnard,Ventura,1101 North F Street,Oxnard,CA,No,1,K-8,K-8,30580.29847147156
+39686500108035,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Park View Elementary,Ripon Unified,San Joaquin,751 Cindy Drive,Ripon,CA,No,1,K-8,K-8,30179.903771386
+56724626055032,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Charles Blackstock Junior High,Hueneme Elementary,Ventura,701 East Bard Road,Oxnard,CA,No,1,6-8,6-8,29978.420487393374
+56726526056097,Active,No,Traditional,Elementary,Public,Juanamaria Elementary,Ventura Unified,Ventura,100 South Crocker Avenue,Ventura,CA,No,1,K-5,K-5,29888.97955790474
+56725386111850,Active,No,Traditional,Intermediate/Middle/Junior High,Public,R.J. Frank Academy of Marine Science & Engineering,Oxnard,Ventura,701 North Juanita Avenue,Oxnard,CA,No,1,6-8,6-8,28431.024647153296
+56725386114029,Active,No,Traditional,Elementary,Public,Norman R. Brekke Elementary,Oxnard,Ventura,"1400 Martin Luther King, Junior Drive",Oxnard,CA,No,1,K-5,K-5,27977.400000000995
+56726526056204,Active,No,Traditional,Elementary,Public,Academy of Technology & Leadership at Saticoy,Ventura Unified,Ventura,760 Jazmin Avenue,Ventura,CA,No,1,K-5,K-5,27119.323525627657
+56725465630389,Active,No,Traditional,High School,Public,Pacifica High,Oxnard Union High,Ventura,600 East Gonzales Road,Oxnard,CA,No,1,9-12,9-12,26891.324601136937
+39685930108613,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Veritas Elementary,Manteca Unified,San Joaquin,1600 Pagola Street,Manteca,CA,No,1,K-8,K-8,26466.514532157682
+42691206045991,Active,No,Traditional,Intermediate/Middle/Junior High,Public,El Camino Junior High,Santa Maria-Bonita,Santa Barbara,219 West El Camino,Santa Maria,CA,No,1,7-8,7-8,25430.995690656477
+42692296045587,Active,No,Traditional,Elementary,Public,Clarence Ruth Elementary,Lompoc Unified,Santa Barbara,501 North W Street,Lompoc,CA,No,1,K-6,K-6,25127.432928488754
+27661420108068,Active,No,Traditional,Elementary,Public,Boronda Meadows,Salinas City Elementary,Monterey,915 Larkin Street,Salinas,CA,No,1,K-6,K-6,24878.700771957436
+52715226053474,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Bend Elementary,Evergreen Union,Tehama,22270 Bend Ferry Road,Red Bluff,CA,No,1,K-8,K-8,23674.012452586405
+27659616025993,Active,No,Traditional,Elementary,Public,Fremont Elementary,Alisal Union,Monterey,1255 East Market Street,Salinas,CA,No,1,K-6,K-6,23388.559144787894
+15637686010037,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Semitropic Elementary,Semitropic Elementary,Kern,25300 Highway 46,Wasco,CA,No,1,K-8,K-8,23166.83669899393
+40687596043038,Active,No,Traditional,Elementary,Public,Grover Beach Elementary,Lucia Mar Unified,San Luis Obispo,365 South 10th Street,Grover Beach,CA,No,1,P-6,K-6,22860.87124040014
+42691126045264,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Benjamin Foxen Elementary,Blochman Union Elementary,Santa Barbara,4949 Foxen Canyon Road,Santa Maria,CA,No,1,K-8,K-8,21784.61631032859
+42692606045751,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Lakeview Junior High,Orcutt Union Elementary,Santa Barbara,3700 Orcutt Road,Santa Maria,CA,No,1,7-8,7-8,21749.652646135975
+24753666025407,Active,No,Traditional,Elementary,Public,El Capitan Elementary,Delhi Unified,Merced,10115 Fifth Street,Delhi,CA,No,1,K-6,K-6,20851.593287905573
+56105610135780,Active,No,Special Education School,Elementary - High Combination,Public,Phoenix,Ventura County Office of Education,Ventura,500 Airport Way,Camarillo,CA,Yes,4,K-12,1-12,20618.427946402426
+56105615630397,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,Gateway Community,Ventura County Office of Education,Ventura,200 Horizon Circle,Camarillo,CA,Yes,4,6-12,7-12,20618.427946402426
+56725460120634,Active,Yes,Traditional,High School,Public,"Architecture, Construction & Engineering Charter High (ACE)",Oxnard Union High,Ventura,570 Airport Way,Camarillo,CA,Yes,4,9-12,9-12,20618.427946402426
+56746175690011,Active,No,Regional Occupational Center/Program,High School,Public,Career Education Center,Ventura County ROP,Ventura,465 Horizon Circle,Camarillo,CA,Yes,4,6-12,No Data,20618.427946402426
+44697990109595,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Cesar E. Chavez Middle,Pajaro Valley Unified,Santa Cruz,440 Arthur Road,Watsonville,CA,No,1,6-8,6-8,20162.42106166167
+10623316007009,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Orange Center Elementary,Orange Center,Fresno,3530 South Cherry Avenue,Fresno,CA,No,1,K-8,K-8,19884.213601906467
+56725616119242,Active,No,Traditional,Elementary,Public,Rio del Norte,Rio Elementary,Ventura,2500 Lobelia Drive,Oxnard,CA,No,1,K-5,K-5,19805.161403940278
+27661426026561,Active,No,Traditional,Elementary,Public,Los Padres Elementary,Salinas City Elementary,Monterey,1130 John Street,Salinas,CA,No,1,K-6,K-6,19697.407931121852
+39685770118307,Active,No,Continuation School,High School,Public,Pride Continuation,Linden Unified,San Joaquin,100 North Jack Tone Road,Stockton,CA,No,1,9-12,10-12,19232.218326222795
+56724626055024,Active,No,Traditional,Elementary,Public,Art Haycox Elementary,Hueneme Elementary,Ventura,5400 Perkins Road,Oxnard,CA,No,1,K-5,K-5,19025.568473001473
+27660926026314,Active,No,Traditional,Elementary,Public,Marina Vista Elementary,Monterey Peninsula Unified,Monterey,390 Carmel Avenue,Marina,CA,No,1,K-5,K-5,18672.925435426085
+56725536055461,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Monte Vista Middle,Pleasant Valley,Ventura,888 North Lantana Street,Camarillo,CA,No,1,6-8,6-8,18242.516919849902
+27661592734556,Active,No,Traditional,High School,Public,Salinas High,Salinas Union High,Monterey,726 South Main Street,Salinas,CA,No,1,9-12,9-12,18207.988283904288
+27662256115182,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Buena Vista Middle,Spreckels Union Elementary,Monterey,18250 Tara Drive,Salinas,CA,No,1,6-8,6-8,17578.650989063834
+39103973930195,Active,No,Juvenile Court School,Intermediate/Middle/Junior High - High Combination,Public,"John F. Cruikshank, Jr.",San Joaquin County Office of Education,San Joaquin,2707 Transworld Drive,Stockton,CA,Yes,4,K-12,7-12,17459.32499999945
+39103973930468,Active,No,County Community School,Elementary - High Combination,Public,San Joaquin County Community,San Joaquin County Office of Education,San Joaquin,2707 Transworld Drive,Stockton,CA,Yes,4,K-12,3-12,17459.32499999945
+39103973930476,Active,Yes,County Community School,Elementary - High Combination,Public,Venture Academy,San Joaquin County Office of Education,San Joaquin,2829 Transworld Drive,Stockton,CA,No,1,K-12,K-12,17459.32499999945
+39103976069215,Active,No,Special Education School,Elementary - High Combination,Public,San Joaquin County Special Education,San Joaquin County Office of Education,San Joaquin,2707 Transworld Drive,Stockton,CA,Yes,4,P-12,K-12,17459.32499999945
+39745423990033,Active,No,Regional Occupational Center/Program,High School,Public,San Joaquin County ROCP,San Joaquin County ROP,San Joaquin,2707 Transworld Drive,Stockton,CA,Yes,4,10-12,No Data,17459.32499999945
+56726526116040,Active,No,Traditional,Elementary,Public,Citrus Glen Elementary,Ventura Unified,Ventura,9655 Darling Road,Ventura,CA,No,1,K-5,K-5,17161.07799928281
+10101081030337,Active,No,Juvenile Court School,Intermediate/Middle/Junior High - High Combination,Public,Alice M. Worsley,Fresno County Office of Education,Fresno,3333 American Avenue,Fresno,CA,No,1,K-12,7-12,17105.98606822957
+40687596043129,Active,No,Traditional,Elementary,Public,Dana Elementary,Lucia Mar Unified,San Luis Obispo,920 West Tefft Street,Nipomo,CA,No,1,K-6,K-6,15770.79920864481
+39686506109284,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Colony Oak Elementary,Ripon Unified,San Joaquin,22241 South Murphy Road,Ripon,CA,No,1,K-8,K-8,15641.645935017674
+37735516116578,Active,No,Traditional,Elementary,Public,Pacific Rim Elementary,Carlsbad Unified,San Diego,1100 Camino de las Ondas,Carlsbad,CA,No,1,K-5,K-5,15572.91082040671
+56725465630066,Active,No,Continuation School,High School,Public,Frontier High,Oxnard Union High,Ventura,545 Airport Way,Camarillo,CA,No,1,9-12,10-12,15453.443156386289
+27660926026256,Active,No,Traditional,Elementary,Public,J. C. Crumpton Elementary,Monterey Peninsula Unified,Monterey,460 Carmel Avenue,Marina,CA,No,1,K-5,K-5,15158.178534300576
+33736766032254,Active,No,Traditional,Elementary,Public,Mecca Elementary,Coachella Valley Unified,Riverside,65250 Coahuilla Street,Mecca,CA,No,1,K-6,K-6,15029.19378310009
+33736766114789,Active,No,Traditional,Elementary,Public,Saul Martinez Elementary,Coachella Valley Unified,Riverside,65-705 Johnson Street,Mecca,CA,No,1,K-6,K-6,15029.19378310009
+15735446010011,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Rio Bravo-Greeley Elementary,Rio Bravo-Greeley Union Elementary,Kern,6601 Enos Lane,Bakersfield,CA,Yes,2,5-8,5-8,14490.92149630248
+15735446117816,Active,No,Traditional,Elementary,Public,Rio Bravo Elementary,Rio Bravo-Greeley Union Elementary,Kern,22725 Elementary Lane,Bakersfield,CA,Yes,2,K-4,K-4,14490.92149630248
+37684526107031,Active,No,Traditional,Elementary,Public,Alamosa Park Elementary,Vista Unified,San Diego,5130 Alamosa Park Drive,Oceanside,CA,No,1,K-5,K-5,14408.407863194245
+39685936042360,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,New Haven Elementary,Manteca Unified,San Joaquin,14600 South Austin Road,Manteca,CA,No,1,K-8,K-8,14375.361473998737
+37684523732039,Active,No,Continuation School,High School,Public,Alta Vista High (Continuation),Vista Unified,San Diego,1575 Bonair Drive,Vista,CA,No,1,9-12,10-12,14103.775829745347
+40687596043087,Active,No,Traditional,Elementary,Public,Ocean View Elementary,Lucia Mar Unified,San Luis Obispo,1208 Linda Drive,Arroyo Grande,CA,No,1,K-6,K-6,13584.669452472192
+50755646052906,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Oakdale Junior High,Oakdale Joint Unified,Stanislaus,400 Maag Avenue,Oakdale,CA,No,1,7-8,7-8,13519.894370068272
+42692036045520,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Kermit McKenzie Intermediate,Guadalupe Union Elementary,Santa Barbara,4710 West Main Street,Guadalupe,CA,No,1,4-8,5-8,13359.08734167594
+24753666025415,Active,No,Traditional,Elementary,Public,Schendel Elementary,Delhi Unified,Merced,16114 Schendel Avenue,Delhi,CA,No,1,P-6,K-6,13349.849913674469
+56726116055834,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Somis Elementary,Somis Union,Ventura,5268 North Street,Somis,CA,No,1,K-8,K-8,12893.113222698203
+56725536120620,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,University Preparation Charter School at CSU Channel Islands,Pleasant Valley,Ventura,1099 Bedford Drive,Camarillo,CA,No,1,K-8,K-8,12624.502412625747
+37684520105882,Active,No,Traditional,Elementary,Public,Foothill Oak Elementary,Vista Unified,San Diego,1370 Oak Drive,Vista,CA,No,1,K-5,K-5,12525.991895024346
+56105610112417,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Ventura Charter School of Arts and Global Education,Ventura County Office of Education,Ventura,2060 Cameron Street,Ventura,CA,Yes,2,K-8,K-8,12504.802885989455
+56726526062152,Active,No,Traditional,Intermediate/Middle/Junior High,Public,De Anza Academy of Technology and the Arts,Ventura Unified,Ventura,2060 Cameron Street,Ventura,CA,Yes,2,6-8,6-8,12504.802885989455
+39685936112197,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Joshua Cowell Elementary,Manteca Unified,San Joaquin,740 Pestana Avenue,Manteca,CA,No,1,K-8,K-8,12460.290935697087
+52715716053581,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Vina Elementary,Los Molinos Unified,Tehama,7th and D Streets,Vina,CA,No,1,1-8,1-8,11811.02999703879
+50755640107979,Active,No,Traditional,Elementary,Public,Sierra View Elementary,Oakdale Joint Unified,Stanislaus,1323 East J Street,Oakdale,CA,No,1,K-6,K-6,11801.204837003035
+44697994430245,Active,Yes,Traditional,High School,Public,Diamond Technology Institute,Pajaro Valley Unified,Santa Cruz,112 Diamond Drive,Watsonville,CA,Yes,2,9-12,9-12,11600.968964696038
+44697996108146,Active,No,Traditional,Elementary,Public,Starlight Elementary,Pajaro Valley Unified,Santa Cruz,225 Hammer Drive,Watsonville,CA,Yes,2,K-5,K-5,11600.968964696038
+56725460131698,Active,No,Traditional,High School,Public,Rancho Campana High,Oxnard Union High,Ventura,4235 Mar Vista Drive,Camarillo,CA,No,1,9-12,9-12,11574.617105146674
+40687596043103,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Paulding Middle,Lucia Mar Unified,San Luis Obispo,600 Crown Hill Street,Arroyo Grande,CA,No,1,7-8,7-8,11415.28539232835
+10621096005839,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Clay Elementary,Clay Joint Elementary,Fresno,12449 South Smith Avenue,Kingsburg,CA,No,1,K-8,K-8,11170.211449510942
+27661426026603,Active,No,Traditional,Elementary,Public,Roosevelt Elementary,Salinas City Elementary,Monterey,120 Capitol Street,Salinas,CA,No,1,K-6,K-6,11137.820726303284
+42692296045611,Active,No,Traditional,Elementary,Public,La Canada Elementary,Lompoc Unified,Santa Barbara,621 West North Avenue,Lompoc,CA,No,1,K-6,K-6,10995.728065424708
+56725386055297,Active,No,Traditional,Elementary,Public,Harrington Elementary,Oxnard,Ventura,451 East Olive Street,Oxnard,CA,No,1,K-5,K-5,10582.370145917288
+43695836118541,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Charter School of Morgan Hill,Morgan Hill Unified,Santa Clara,9530 Monterey Road,Morgan Hill,CA,No,1,K-8,K-8,9121.925302799871
+24656496025399,Active,No,Traditional,Elementary,Public,Cressey Elementary,Ballico-Cressey Elementary,Merced,9921 Crocker Street,Cressey,CA,No,1,K,K,9057.367312372628
+43694840123760,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Gilroy Prep (a Navigator School),Gilroy Unified,Santa Clara,277 IOOF Avenue,Gilroy,CA,Yes,2,K-8,K-8,9024.665687043282
+43694846098214,Active,No,Traditional,Intermediate/Middle/Junior High,Public,South Valley Middle,Gilroy Unified,Santa Clara,385 IOOF Avenue,Gilroy,CA,Yes,2,6-8,6-8,9024.665687043282
+54719696054126,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Kings River Elementary,Kings River Union Elementary,Tulare,3961 Avenue 400,Kingsburg,CA,No,1,K-8,K-8,8999.814447428278
+30736500116053,Active,No,Special Education School,Elementary,Public,Early Childhood Learning Center,Irvine Unified,Orange,1 Smoketree,Irvine,CA,No,1,P,K,8907.613002401398
+27661426109177,Active,No,Traditional,Elementary,Public,Laurel Wood Elementary,Salinas City Elementary,Monterey,645 Larkin Street,Salinas,CA,No,1,K-6,K-6,8773.330921985667
+24656496025381,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Ballico-Cressey Community Charter,Ballico-Cressey Elementary,Merced,11818 Gregg Street,Ballico,CA,No,1,1-8,1-8,8578.42637209847
+40687596043012,Active,No,Traditional,Elementary,Public,Branch Elementary,Lucia Mar Unified,San Luis Obispo,970 School Road,Arroyo Grande,CA,No,1,K-6,K-6,8472.607293103289
+39686506042485,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Ripona Elementary,Ripon Unified,San Joaquin,415 East Oregon Street,Ripon,CA,No,1,K-8,K-8,8045.414782969253
+27661426026546,Active,No,Traditional,Elementary,Public,Lincoln Elementary,Salinas City Elementary,Monterey,705 California Street,Salinas,CA,No,1,K-6,K-6,8044.283335977354
+39685936042378,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Nile Garden Elementary,Manteca Unified,San Joaquin,5700 East Nile Road,Manteca,CA,No,1,K-8,K-8,8032.909108807248
+39685026070957,Active,No,Traditional,Intermediate/Middle/Junior High,Public,El Portal Middle,Escalon Unified,San Joaquin,805 First Street,Escalon,CA,No,1,6-8,6-8,7969.152510827034
+24737266025803,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Washington Elementary,Merced River Union Elementary,Merced,4402 West Oakdale Road,Winton,CA,No,1,P-8,K-8,7913.140666408609
+15636106009732,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Maple Elementary,Maple Elementary,Kern,29161 Fresno Avenue,Shafter,CA,No,1,K-8,K-8,7762.622340768905
+44697996049787,Active,No,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Rolling Hills Middle,Pajaro Valley Unified,Santa Cruz,130 Herman Avenue,Watsonville,CA,No,1,6-8,6-12,7600.8087606950085
+42692294233060,Active,No,Traditional,High School,Public,Lompoc High,Lompoc Unified,Santa Barbara,515 West College Avenue,Lompoc,CA,No,1,9-12,9-12,7389.768412940646
+24753660131862,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Delhi Middle,Delhi Unified,Merced,16881 West Schendel Avenue,Delhi,CA,Yes,2,7-8,7-8,7378.832971203357
+24753662430114,Active,No,Traditional,High School,Public,Delhi High,Delhi Unified,Merced,16881 West Schendel Avenue,Delhi,CA,Yes,2,9-12,9-12,7378.832971203357
+30736506095137,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Venado Middle,Irvine Unified,Orange,4 Deerfield Avenue,Irvine,CA,No,1,7-8,7-8,7237.33880307178
+40687594033205,Active,No,Continuation School,High School,Public,Lopez Continuation High,Lucia Mar Unified,San Luis Obispo,1055 Mesa View Drive,Arroyo Grande,CA,No,1,9-12,10-12,7169.635097090077
+58727440107375,Active,No,Traditional,Elementary,Public,Rio Del Oro Elementary,Plumas Lake Elementary,Yuba,1220 Zanes Drive,Plumas Lake,CA,No,1,K-5,K-5,7072.37371822283
+56724476054969,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Briggs Elementary,Briggs Elementary,Ventura,14438 West Telegraph Road,Santa Paula,CA,No,1,5-8,5-8,6871.908249348475
+56726525637822,Active,No,Traditional,High School,Public,Ventura High,Ventura Unified,Ventura,2 North Catalina Street,Ventura,CA,No,1,9-12,9-12,6750.568321970069
+50755496052575,Active,No,Traditional,Elementary,Public,Hughson Elementary,Hughson Unified,Stanislaus,7201 East Whitmore Avenue,Hughson,CA,No,1,K-3,K-3,6509.002067322683
+54722236054449,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Traver Elementary,Traver Joint Elementary,Tulare,36736 Canal Drive,Traver,CA,No,1,K-8,K-8,6481.919179539864
+30736500129155,Active,No,Traditional,Elementary,Public,Cypress Village Elementary,Irvine Unified,Orange,355 Rush Lily,Irvine,CA,No,1,K-6,K-6,6279.083297178262
+10621666111249,Active,No,Traditional,Elementary,Public,Edith B. Storey Elementary,Fresno Unified,Fresno,5250 East Church Avenue,Fresno,CA,No,1,K-6,K-6,6191.269477055466
+24656986025472,Active,No,Traditional,Elementary,Public,Merquin Elementary,Hilmar Unified,Merced,20316 West Third Avenue,Stevinson,CA,No,1,K-5,K-5,6115.234729475483
+39685026041834,Active,No,Traditional,Elementary,Public,Van Allen Elementary,Escalon Unified,San Joaquin,21051 East Highway 120,Escalon,CA,No,1,K-5,K-5,6105.50409658046
+50755490116848,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Valley Community Day,Hughson Unified,Stanislaus,7419 East Whitmore,Hughson,CA,Yes,2,8-12,9-10,6040.758423517892
+50755495032651,Active,No,Traditional,High School,Public,Hughson High,Hughson Unified,Stanislaus,7419 East Whitmore Avenue,Hughson,CA,Yes,2,9-12,9-12,6040.758423517892
+15634206009419,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Di Giorgio Elementary,Di Giorgio Elementary,Kern,19405 Buena Vista Boulevard,Arvin,CA,No,1,K-8,K-8,6022.298292088597
+58727366056626,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Anna McKenney Intermediate,Marysville Joint Unified,Yuba,1904 Huston,Marysville,CA,Yes,2,6-8,6-8,5974.445245251105
+58727366056774,Active,No,Traditional,Elementary,Public,Kynoch Elementary,Marysville Joint Unified,Yuba,1905 Ahern Street,Marysville,CA,Yes,2,K-5,K-5,5974.445245251105
+04614320433201,Active,No,Traditional,High School,Public,Durham High,Durham Unified,Butte,9455 Putney Drive,Durham,CA,Yes,3,9-12,9-12,5922.2102259899775
+04614326003115,Active,No,Traditional,Elementary,Public,Durham Elementary,Durham Unified,Butte,9421 Putney Drive,Durham,CA,Yes,3,K-5,K-5,5922.2102259899775
+04614326105761,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Durham Intermediate,Durham Unified,Butte,9416 Putney Drive,Durham,CA,Yes,3,6-8,6-8,5922.2102259899775
+37684526107577,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Roosevelt Middle,Vista Unified,San Diego,850 Sagewood Drive,Oceanside,CA,No,1,6-8,6-8,5840.15933997159
+39685850125369,Active,No,Special Education School,Elementary - Intermediate/Middle/Junior High Combination,Public,Turner Academy at Tokay Colony,Lodi Unified,San Joaquin,13520 East Live Oak Road,Lodi,CA,No,1,K-8,K-8,5802.340148772361
+10625396007413,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,West Park Elementary,West Park Elementary,Fresno,2695 South Valentine Avenue,Fresno,CA,Yes,2,P-8,K-8,5731.693450590427
+10625396112387,Active,Yes,Traditional,Elementary - High Combination,Public,West Park Charter Academy,West Park Elementary,Fresno,2695 South Valentine Avenue,Fresno,CA,Yes,2,K-12,K-12,5731.693450590427
+42692296068902,Active,No,Traditional,Elementary,Public,Miguelito Elementary,Lompoc Unified,Santa Barbara,1600 West Olive Avenue,Lompoc,CA,No,1,K-6,K-6,5687.858742936802
+10739656006910,Active,No,Traditional,Elementary,Public,Madison Elementary,Central Unified,Fresno,330 South Brawley Avenue,Fresno,CA,No,1,K-6,K-6,5666.179546568412
+45699894533600,Active,No,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Fall River Junior-Senior High,Fall River Joint Unified,Shasta,44215 Walnut Street,McArthur,CA,No,1,7-12,7-12,5622.696924687298
+54755316053961,Active,No,Traditional,Elementary,Public,Grand View Elementary,Dinuba Unified,Tulare,39746 Road 64,Dinuba,CA,No,1,K-6,K-6,5610.8284736109945
+54722566054597,Active,No,Traditional,Elementary,Public,Goshen Elementary,Visalia Unified,Tulare,6505 Avenue 308,Visalia,CA,No,1,P-6,K-6,5475.327040720181
+30736506100317,Active,No,Traditional,Elementary,Public,Eastshore Elementary,Irvine Unified,Orange,155 Eastshore,Irvine,CA,No,1,K-6,K-6,5461.15716405052
+10624140123463,Active,No,Traditional,Elementary,Public,Sequoia Elementary,Sanger Unified,Fresno,1820 South Armstrong Avenue,Fresno,CA,No,1,P-6,K-6,5195.100344872242
+15739080133504,Active,No,Traditional,Elementary,Public,Horizon Elementary,McFarland Unified,Kern,800 South Garzoli Avenue,McFarland,CA,No,1,K-6,K-6,5044.596040169741
+27661596058762,Active,No,Traditional,Intermediate/Middle/Junior High,Public,El Sausal Middle,Salinas Union High,Monterey,1155 East Alisal Street,Salinas,CA,No,1,7-8,7-8,5018.71354364866
+56724476054977,Active,No,Traditional,Elementary,Public,Olivelands Elementary,Briggs Elementary,Ventura,12465 Foothill Road,Santa Paula,CA,No,1,K-4,K-4,4794.73849309131
+58727360121632,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Paragon Collegiate Academy,Marysville Joint Unified,Yuba,1608 Sampson Street,Marysville,CA,No,1,K-8,K-8,4600.912389577724
+54718526053896,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Columbine Elementary,Columbine Elementary,Tulare,2240 Road 160,Delano,CA,No,1,K-8,K-8,4496.457929822667
+56725465632849,Active,No,Traditional,High School,Public,Hueneme High,Oxnard Union High,Ventura,500 West Bard Road,Oxnard,CA,No,1,9-12,9-12,4382.250145000022
+30736500127472,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Jeffrey Trail Middle,Irvine Unified,Orange,155 Visions,Irvine,CA,No,1,7-8,7-8,4271.482079345427
+50755726053219,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Waterford Junior,Waterford Unified,Stanislaus,12916 Bentley Street,Waterford,CA,No,1,7-8,7-8,4254.779934639777
+50712826053078,Active,No,Traditional,Elementary,Public,Stanislaus Elementary,Stanislaus Union Elementary,Stanislaus,1931 Kiernan Avenue,Modesto,CA,No,1,K-6,K-6,4222.239089613576
+44697990102673,Active,No,Traditional,Elementary,Public,Landmark Elementary,Pajaro Valley Unified,Santa Cruz,235 Ohlone Parkway,Watsonville,CA,Yes,2,K-5,K-5,4198.634052346148
+44697994430203,Active,No,Community Day School,High School,Public,New School Community Day,Pajaro Valley Unified,Santa Cruz,165 Harkins Slough Road,Watsonville,CA,Yes,2,9-12,9-12,4198.634052346148
+43694846047336,Active,No,Traditional,Elementary,Public,Rucker Elementary,Gilroy Unified,Santa Clara,325 Santa Clara Avenue,Gilroy,CA,No,1,K-5,K-5,4003.471933615935
+10625136007405,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Washington Colony Elementary,Washington Colony Elementary,Fresno,130 East Lincoln Avenue,Fresno,CA,No,1,K-8,K-8,3971.8851880269704
+27660926058713,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Los Arboles Middle,Monterey Peninsula Unified,Monterey,294 Hillcrest Avenue,Marina,CA,No,1,6-8,6-8,3947.0598940539285
+10624146007173,Active,No,Traditional,Elementary,Public,Lone Star Elementary,Sanger Unified,Fresno,2617 South Fowler Avenue,Fresno,CA,No,1,P-6,K-6,3901.0056959291064
+56725536055404,Active,No,Traditional,Elementary,Public,Dos Caminos Elementary,Pleasant Valley,Ventura,3635 Appian Way,Camarillo,CA,No,1,P-5,K-5,3897.8516662342167
+50711750121129,Active,No,Traditional,High School,Public,Joseph A. Gregori High,Modesto City High,Stanislaus,3701 Pirrone Road,Modesto,CA,No,1,9-12,9-12,3887.605139874643
+10623646007041,Active,No,Traditional,Elementary,Public,John C Martinez Elementary,Parlier Unified,Fresno,13174 East Parlier Avenue,Parlier,CA,No,1,K-6,K-6,3776.996095343616
+39685026041792,Active,No,Traditional,Elementary,Public,Dent Elementary,Escalon Unified,San Joaquin,1998 Yosemite Avenue,Escalon,CA,No,1,K-5,K-5,3759.388594372405
+27659616106959,Active,No,Traditional,Elementary,Public,Virginia Rocca Barton Elementary,Alisal Union,Monterey,680 Las Casitas Drive,Salinas,CA,No,1,K-6,K-6,3619.3323788291195
+43694846047302,Active,No,Traditional,Elementary,Public,Eliot Elementary,Gilroy Unified,Santa Clara,475 Old Gilroy Street,Gilroy,CA,No,1,K-5,K-5,3597.1364624749185
+56726526056154,Active,No,Traditional,Elementary,Public,Mound Elementary,Ventura Unified,Ventura,455 South Hill Road,Ventura,CA,No,1,K-5,K-5,3590.72540718978
+56725460115105,Active,Yes,Traditional,Elementary - High Combination,Public,Camarillo Academy of Progressive Education,Oxnard Union High,Ventura,777 Aileen Street,Camarillo,CA,No,1,K-12,K-12,3574.7046032474536
+30736506098511,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Lakeside Middle,Irvine Unified,Orange,3 Lemongrass,Irvine,CA,No,1,7-8,7-8,3560.237818384414
+39685776042006,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Waverly Elementary,Linden Unified,San Joaquin,3507 Wilmarth Road,Stockton,CA,No,1,K-8,K-8,3514.385105088381
+39685936042386,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Sequoia Elementary,Manteca Unified,San Joaquin,710 Martha Street,Manteca,CA,No,1,K-8,K-8,3474.046786218303
+27661426026595,Active,No,Traditional,Elementary,Public,Natividad Elementary,Salinas City Elementary,Monterey,1465 Modoc Avenue,Salinas,CA,No,1,K-6,K-6,3407.7278701775085
+43695836098263,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Jackson Academy of Music and Math (JAMM),Morgan Hill Unified,Santa Clara,2700 Fountain Oaks Drive,Morgan Hill,CA,No,1,K-8,K-8,3358.8477408460635
+10624140113043,Active,No,Traditional,Elementary,Public,Ronald W. Reagan Elementary,Sanger Unified,Fresno,1586 South Indianola,Sanger,CA,No,1,K-6,K-6,3295.334428524305
+54722316108385,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Live Oak Middle,Tulare City,Tulare,980 North Laspina Street,Tulare,CA,No,1,7-8,7-8,3253.017239185047
+10624146007140,Active,No,Traditional,Elementary,Public,Jefferson Elementary,Sanger Unified,Fresno,1110 Tucker Street,Sanger,CA,No,1,P-6,K-6,3217.1339799687385
+10621666088942,Active,No,Traditional,Elementary,Public,Sunset Elementary,Fresno Unified,Fresno,1755 South Crystal Avenue,Fresno,CA,No,1,K-6,K-6,3210.126571768084
+50755490101030,Active,No,Traditional,Elementary,Public,Fox Road Elementary,Hughson Unified,Stanislaus,7600 Fox Road,Hughson,CA,Yes,2,4-5,4-5,3173.4357111157497
+50755496052567,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Emilie J. Ross Middle,Hughson Unified,Stanislaus,7448 Fox Road,Hughson,CA,Yes,2,6-8,6-8,3173.4357111157497
+27661426026538,Active,No,Traditional,Elementary,Public,Henry F. Kammann Elementary,Salinas City Elementary,Monterey,521 Rochex Street,Salinas,CA,No,1,K-6,K-6,3144.5634216879102
+58727360131599,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Marysville Community Day,Marysville Joint Unified,Yuba,1919 B Street,Marysville,CA,Yes,3,7-12,9-10,3123.814752197139
+58727365830138,Active,Yes,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Marysville Charter Academy for the Arts,Marysville Joint Unified,Yuba,1917 B Street,Marysville,CA,Yes,3,7-12,7-12,3123.814752197139
+58727365835202,Active,No,Traditional,High School,Public,Marysville High,Marysville Joint Unified,Yuba,12 East 18th Street,Marysville,CA,Yes,3,9-12,9-12,3123.814752197139
+50712176052922,Active,No,Traditional,Elementary,Public,Grayson Elementary,Patterson Joint Unified,Stanislaus,301 Howard Road,Westley,CA,No,1,K-5,K-5,3108.932552125951
+51713996053268,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Encinal Elementary,Live Oak Unified,Sutter,6484 Larkin Road,Live Oak,CA,No,1,K-8,K-8,3105.978419729041
+39685856042121,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Houston,Lodi Unified,San Joaquin,4600 East Acampo Road,Acampo,CA,No,1,K-8,K-8,3089.2351179558195
+15739086106306,Active,No,Traditional,Intermediate/Middle/Junior High,Public,McFarland Junior High,McFarland Unified,Kern,405 Mast Avenue,McFarland,CA,No,1,7-8,5-8,3067.8514123913465
+39686503935756,Active,No,Traditional,High School,Public,Ripon High,Ripon Unified,San Joaquin,301 North Acacia Avenue,Ripon,CA,Yes,2,9-12,9-12,3044.238747364899
+39685020126011,Active,Yes,Traditional,Elementary - High Combination,Public,Escalon Charter Academy,Escalon Unified,San Joaquin,1520 Yosemite Avenue,Escalon,CA,Yes,3,K-12,K-12,3016.494567181389
+39685023930054,Active,No,Continuation School,High School,Public,Vista High (Continuation),Escalon Unified,San Joaquin,1520 Yosemite Avenue,Escalon,CA,Yes,3,9-12,11-12,3016.494567181389
+39685023932308,Active,No,Traditional,High School,Public,Escalon High,Escalon Unified,San Joaquin,1528 East Yosemite Avenue,Escalon,CA,Yes,3,9-12,9-12,3016.494567181389
+10621666112882,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Elizabeth Terronez Middle,Fresno Unified,Fresno,2300 South Willow,Fresno,CA,No,1,6-8,7-8,3003.4775684951233
+39685776041966,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Glenwood Elementary,Linden Unified,San Joaquin,2005 North Alpine Road,Stockton,CA,No,1,K-8,K-8,2962.359990110771
+10622656006837,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Riverview Elementary,Kings Canyon Joint Unified,Fresno,8662 South Lac Jac Avenue,Parlier,CA,No,1,K-8,K-8,2894.2726638562795
+16739321630110,Active,No,Continuation School,High School,Public,Adelante High,Reef-Sunset Unified,Kings,701 General Petroleum Street,Kettleman City,CA,Yes,2,9-12,11-12,2859.5500120939487
+16739326010573,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Kettleman City Elementary,Reef-Sunset Unified,Kings,701 General Petroleum Street,Kettleman City,CA,Yes,2,K-8,K-8,2859.5500120939487
+39686506042477,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Ripon Elementary,Ripon Unified,San Joaquin,509 West Main Street,Ripon,CA,Yes,2,K-8,K-8,2835.481075069137
+56725536120117,Active,No,Traditional,Elementary,Public,La Mariposa,Pleasant Valley,Ventura,4800 Corte Olivas,Camarillo,CA,No,1,K-5,K-5,2833.2577755490274
+24658706025837,Active,No,Traditional,Elementary,Public,Sybil N. Crookham Elementary,Winton,Merced,7160 West Walnut Avenue,Winton,CA,No,1,K-5,K-5,2734.5809290697075
+51714646053359,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Barry Elementary,Yuba City Unified,Sutter,1255 Barry Road,Yuba City,CA,No,1,K-8,K-8,2724.5845110247737
+50755495032669,Active,No,Continuation School,High School,Public,Dickens (Billy Joe) High (Continuation),Hughson Unified,Stanislaus,6937 Fox Road,Hughson,CA,No,1,9-12,10-12,2675.4387155215986
+39685936108237,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Brock Elliott Elementary,Manteca Unified,San Joaquin,1110 Stonum Lane,Manteca,CA,No,1,K-8,K-8,2607.373450012931
+57727026056410,Active,No,Traditional,Elementary,Public,Shirley Rominger Intermediate,Winters Joint Unified,Yolo,502 Niemann Street,Winters,CA,Yes,2,3-5,3-5,2607.0852188190725
+57727020138974,Active,No,Traditional,Elementary,Public,Waggoner Elementary,Winters Joint Unified,Yolo,500 Edwards Street,Winters,CA,Yes,2,K-2,K-2,2601.3543640362855
+10621586006043,Active,No,Traditional,Elementary,Public,Malaga Elementary,Fowler Unified,Fresno,3910 South Ward Avenue,Fresno,CA,No,1,K-5,K-5,2586.4371858661807
+37103710138404,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Classical Academy Vista,San Diego County Office of Education,San Diego,4010 Mystra Way,Oceanside,CA,No,1,K-8,K-8,2577.240370358275
+50710685030267,Active,Yes,Traditional,Elementary - High Combination,Public,Denair Charter Academy,Denair Unified,Stanislaus,3460 Lester Road,Denair,CA,Yes,3,K-12,K-12,2568.380314062301
+50710685031521,Active,No,Traditional,High School,Public,Denair High,Denair Unified,Stanislaus,3431 Lester Road,Denair,CA,Yes,3,9-12,9-12,2568.380314062301
+50710686071575,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Denair Middle,Denair Unified,Stanislaus,3701 Lester Road,Denair,CA,Yes,3,6-8,6-8,2568.380314062301
+10622656088959,Active,No,Traditional,Elementary,Public,Great Western Elementary,Kings Canyon Joint Unified,Fresno,5051 South Frankwood Avenue,Reedley,CA,No,1,P-5,K-5,2564.1494202203185
+50755645030176,Active,Yes,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Oakdale Charter,Oakdale Joint Unified,Stanislaus,1235 East D Street,Oakdale,CA,Yes,2,7-12,7-12,2554.4324011862564
+50755646052880,Active,No,Traditional,Elementary,Public,Cloverland Elementary,Oakdale Joint Unified,Stanislaus,201 East Johnson Street,Oakdale,CA,Yes,2,K-6,K-6,2554.4324011862564
+50712090112383,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Paradise Charter,Paradise Elementary,Stanislaus,3361 California Avenue,Modesto,CA,Yes,2,K-8,K-8,2530.79148545135
+50712096052914,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Paradise Elementary,Paradise Elementary,Stanislaus,3361 California Avenue,Modesto,CA,Yes,2,K-8,K-8,2530.79148545135
+10767781030774,Active,Yes,Traditional,Elementary - High Combination,Public,W.E.B. DuBois Public Charter,Washington Unified,Fresno,2604 Martin Luther King Boulevard,Fresno,CA,No,1,K-12,K-12,2522.913929270877
+15638426110340,Active,No,Traditional,Elementary,Public,John L. Prueitt Elementary,Wasco Union Elementary,Kern,3501 Seventh Street,Wasco,CA,No,1,K-5,K-5,2435.07997901942
+44697996049696,Active,No,Traditional,Elementary,Public,Freedom Elementary,Pajaro Valley Unified,Santa Cruz,25 Holly Drive,Freedom,CA,No,1,K-5,K-5,2432.830067775799
+42772060138370,Active,Yes,Traditional,Elementary - High Combination,Public,Olive Grove Charter - Lompoc,SBE - Olive Grove Charter - Lompoc,Santa Barbara,820 North H Street Second Floor,Lompoc,CA,No,1,K-12,K-12,2376.4154338442877
+50757395036884,Active,No,Continuation School,High School,Public,Roselawn High,Turlock Unified,Stanislaus,312 South Roselawn,Turlock,CA,No,1,9-12,11-12,2330.428121142916
+43694846047286,Active,No,Traditional,Elementary,Public,Luigi Aprea Elementary,Gilroy Unified,Santa Clara,9225 Calle del Rey,Gilroy,CA,No,1,K-5,K-5,2316.2893888856997
+50757396053169,Active,No,Traditional,Elementary,Public,Cunningham Elementary,Turlock Unified,Stanislaus,324 West Linwood Avenue,Turlock,CA,No,1,K-6,K-6,2313.990126312184
+24102496068498,Active,No,Special Education School,Elementary - High Combination,Public,Floyd A. Schelby,Merced County Office of Education,Merced,6738 North Sultana Drive,Livingston,CA,No,1,P-12,K-12,2261.419209810858
+15635290110999,Active,No,Traditional,High School,Public,Frontier High,Kern High,Kern,6401 Allen Road,Bakersfield,CA,No,1,9-12,9-12,2243.951799455722
+15635526009666,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Lakeside,Lakeside Union,Kern,14535 Old River Road,Bakersfield,CA,No,1,K-8,K-8,2239.0586879981856
+50710926052542,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Hart-Ransom Elementary,Hart-Ransom Union Elementary,Stanislaus,3930 Shoemake Avenue,Modesto,CA,No,1,K-8,K-8,2195.159468461185
+50710680132662,Active,Yes,Traditional,Elementary,Public,Denair Elementary Charter Academy,Denair Unified,Stanislaus,3773 Madera Avenue,Denair,CA,Yes,2,K-5,K-5,2192.3331673205344
+50710686052500,Active,No,Traditional,Elementary,Public,Denair Elementary,Denair Unified,Stanislaus,3773 Madera Avenue,Denair,CA,Yes,2,K-5,K-5,2192.3331673205344
+50757390114561,Active,No,Traditional,Elementary,Public,Walnut Elementary Education Center,Turlock Unified,Stanislaus,4219 North Walnut Road,Turlock,CA,No,1,K-6,K-6,2117.0413492520406
+57727025730049,Active,No,Continuation School,High School,Public,Wolfskill High,Winters Joint Unified,Yolo,200 Baker Street,Winters,CA,No,1,9-12,11-12,2100.3181608173886
+10621666103840,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Edison Computech,Fresno Unified,Fresno,555 East Belgravia,Fresno,CA,No,1,7-8,7-8,2080.837665132646
+27661592733178,Active,No,Traditional,High School,Public,North Salinas High,Salinas Union High,Monterey,55 Kip Drive,Salinas,CA,No,1,9-12,9-12,2041.614285881094
+37735516099352,Active,No,Traditional,Elementary,Public,Kelly Elementary,Carlsbad Unified,San Diego,4885 Kelly Drive,Carlsbad,CA,No,1,K-5,K-5,2029.82817937722
+10622650126292,Active,Yes,Traditional,High School,Public,Reedley Middle College High,Kings Canyon Joint Unified,Fresno,995 North Reed Avenue,Reedley,CA,No,1,9-12,9-12,2011.677324695167
+24657486025514,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Livingston Middle,Livingston Union,Merced,101 F Street,Livingston,CA,No,1,6-8,6-8,2004.0298877165824
+37735510127423,Active,No,Traditional,High School,Public,Sage Creek High,Carlsbad Unified,San Diego,3900 Bobcat Boulevard,Carlsbad,CA,No,1,9-12,9-12,2001.7301362983708
+50757390108175,Active,No,Traditional,Elementary,Public,Sandra Tovar Medeiros Elementary,Turlock Unified,Stanislaus,651 West Springer Drive,Turlock,CA,No,1,K-6,K-6,1914.3631635254878
+50712740121558,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Shiloh Charter,Shiloh Elementary,Stanislaus,6633 Paradise Road,Modesto,CA,Yes,2,K-8,K-8,1907.6242937990278
+50712746053045,Active,No,Traditional,Elementary,Public,Shiloh Elementary,Shiloh Elementary,Stanislaus,6633 Paradise Road,Modesto,CA,Yes,2,K-8,K-2,1907.6242937990278
+10624306007280,Active,No,Traditional,Elementary,Public,Indianola Elementary,Selma Unified,Fresno,11524 East Dinuba Avenue,Selma,CA,No,1,K-6,K-6,1892.7567095079785
+39686506106322,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Weston Elementary,Ripon Unified,San Joaquin,1660 Stanley Drive,Ripon,CA,No,1,K-8,K-8,1879.6466263915006
+50712660124768,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Great Valley Academy - Salida,Salida Union Elementary,Stanislaus,5901 Sisk Road,Modesto,CA,No,1,K-8,K-8,1858.625835720009
+50757395030283,Active,No,Traditional,High School,Public,John H. Pitman High,Turlock Unified,Stanislaus,2525 West Christoffersen Parkway,Turlock,CA,No,1,9-12,9-12,1833.9431501381582
+43694840100990,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Solorsano Middle,Gilroy Unified,Santa Clara,7121 Grenache Way,Gilroy,CA,No,1,6-8,6-8,1803.1564279948116
+43694844334850,Active,No,Continuation School,High School,Public,Mt. Madonna High,Gilroy Unified,Santa Clara,8750 Hirasaki Court,Gilroy,CA,Yes,2,9-12,11-12,1798.0371555446209
+43694846106991,Active,No,Traditional,Elementary,Public,Rod Kelley Elementary,Gilroy Unified,Santa Clara,8755 Kern Avenue,Gilroy,CA,Yes,2,K-5,K-5,1798.0371555446209
+50755560113852,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Riverbank Language Academy,Riverbank Unified,Stanislaus,2400 Stanislaus Street,Riverbank,CA,No,1,K-8,K-8,1767.254537173274
+15634120100529,Active,No,Traditional,High School,Public,Cesar E. Chavez High,Delano Joint Union High,Kern,800 Browning Road,Delano,CA,No,1,9-12,9-12,1752.2999999999956
+10621666006076,Active,No,Traditional,Elementary,Public,Aynesworth Elementary,Fresno Unified,Fresno,4765 East Burns Avenue,Fresno,CA,No,1,K-6,K-6,1729.7709328119524
+24657486109649,Active,No,Traditional,Elementary,Public,Yamato Colony Elementary,Livingston Union,Merced,800 North Main Street,Livingston,CA,No,1,K-5,K-5,1729.0845928869057
+10767786006605,Active,No,Traditional,Elementary,Public,West Fresno Elementary,Washington Unified,Fresno,2910 South Ivy Street,Fresno,CA,No,1,K-5,K-5,1723.1910231779007
+10622651033703,Active,No,Continuation School,Elementary - High Combination,Public,Kings Canyon Continuation,Kings Canyon Joint Unified,Fresno,10026 South Crawford Avenue,Dinuba,CA,No,1,9-12,2-12,1695.856284850707
+10767786006613,Active,No,Traditional,Intermediate/Middle/Junior High,Public,West Fresno Middle,Washington Unified,Fresno,2888 South Ivy Street,Fresno,CA,No,1,6-8,6-8,1668.6927527856799
+10621661031897,Active,No,Traditional,High School,Public,Edison High,Fresno Unified,Fresno,540 East California Avenue,Fresno,CA,No,1,9-12,9-12,1633.9371644389967
+27102722730265,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,Salinas Community,Monterey County Office of Education,Monterey,1420 Natividad Road,Salinas,CA,Yes,2,7-12,8-12,1612.412018655635
+27102722730117,Active,No,Juvenile Court School,High School,Public,"Wellington M. Smith, Jr.",Monterey County Office of Education,Monterey,1420 Natividad Road,Salinas,CA,Yes,2,4-12,9-12,1612.4118285323755
+10623646007058,Active,No,Traditional,Elementary,Public,Cesar E Chavez Elementary,Parlier Unified,Fresno,500 Tuolumne Street,Parlier,CA,No,1,K-6,K-6,1600.5844550759878
+58727366056717,Active,No,Traditional,Elementary,Public,Linda Elementary,Marysville Joint Unified,Yuba,6180 Dunning Avenue,Marysville,CA,No,1,K-6,K-6,1589.8625147084217
+57727025738505,Active,No,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Winters High,Winters Joint Unified,Yolo,101 Grant Avenue,Winters,CA,No,1,9-12,7-12,1568.7159929717275
+43694840114496,Active,No,Traditional,High School,Public,Dr. TJ Owens Gilroy Early College Academy,Gilroy Unified,Santa Clara,"5055 Santa Teresa Boulevard, PB17",Gilroy,CA,No,1,9-12,9-12,1553.6280199542211
+15634040106575,Active,No,Traditional,Elementary,Public,Harvest Elementary,Delano Union Elementary,Kern,1320 Vassar Avenue,Delano,CA,Yes,2,K-5,K-5,1543.3773295279157
+15634040112185,Active,No,Traditional,Intermediate/Middle/Junior High,Public,La Vina Middle,Delano Union Elementary,Kern,1331 Browning Road,Delano,CA,Yes,2,6-8,5-8,1543.3773295279157
+10755981030535,Active,No,Traditional,Elementary - High Combination,Public,Caruthers High,Caruthers Unified,Fresno,2580 West Tahoe Avenue,Caruthers,CA,Yes,2,9-12,1-12,1519.7763460923227
+10755981030543,Active,No,Continuation School,High School,Public,MARC High,Caruthers Unified,Fresno,2580 West Tahoe Avenue,Caruthers,CA,Yes,2,9-12,9-12,1519.7763460923227
+50712666106934,Active,No,Traditional,Elementary,Public,Sisk Elementary,Salida Union Elementary,Stanislaus,5337 Sugar Creek Lane,Salida,CA,No,1,K-5,K-5,1469.400370039689
+24753660105817,Active,No,Traditional,Elementary,Public,Harmony Elementary,Delhi Unified,Merced,16464 West August Avenue,Delhi,CA,No,1,K-6,K-6,1448.6681427994063
+37768516037543,Active,No,Traditional,Elementary,Public,Bonsall Elementary,Bonsall Unified,San Diego,31555 Old River Road,Bonsall,CA,No,1,K-5,K-5,1437.7465774002799
+50755725030317,Active,Yes,Traditional,Elementary - High Combination,Public,Connecting Waters Charter,Waterford Unified,Stanislaus,12420 Bentley Street,Waterford,CA,No,1,K-12,K-12,1428.8986535285233
+56726526060370,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Balboa Middle,Ventura Unified,Ventura,247 Hill Road,Ventura,CA,No,1,6-8,6-8,1419.213074994942
+10623640126870,Active,No,Continuation School,High School,Public,San Joaquin Valley High,Parlier Unified,Fresno,900 Newmark Avenue,Parlier,CA,Yes,3,9-12,9-12,1307.0682987366663
+10623641034990,Active,No,Traditional,High School,Public,Parlier High,Parlier Unified,Fresno,603 Third Street,Parlier,CA,Yes,3,9-12,9-12,1307.0682987366663
+10623646007033,Active,No,Traditional,Elementary,Public,Mathew J Brletic Elementary,Parlier Unified,Fresno,601 Third Street,Parlier,CA,Yes,3,K-6,K-6,1307.0682987366663
+58105870113274,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,Thomas E. Mathews Community,Yuba County Office of Education,Yuba,1127 E Street,Marysville,CA,No,1,7-12,7-12,1289.0723351954825
+50711346052591,Active,No,Traditional,Elementary,Public,Keyes Elementary,Keyes Union,Stanislaus,4400 Maud Avenue,Keyes,CA,Yes,2,K-5,K-5,1257.5184397013743
+50711346113286,Active,Yes,Traditional,Elementary - High Combination,Public,Keyes to Learning Charter,Keyes Union,Stanislaus,5709 Ninth Street,Keyes,CA,Yes,2,K-12,K-12,1257.5184397013743
+57726786118905,Active,No,Traditional,Elementary,Public,Marguerite Montgomery Elementary,Davis Joint Unified,Yolo,1441 Danbury Drive,Davis,CA,No,1,K-6,K-6,1248.3578596874904
+10101086085112,Active,Yes,Traditional,Elementary,Public,Edison-Bethune Charter Academy,Fresno County Office of Education,Fresno,1616 South Fruit Avenue,Fresno,CA,No,1,K-6,K-6,1242.4240395069169
+39685933935103,Active,No,Traditional,High School,Public,Manteca High,Manteca Unified,San Joaquin,450 East Yosemite Avenue,Manteca,CA,No,1,9-12,9-12,1235.2796653318785
+50712666113823,Active,No,Traditional,Elementary,Public,Dena Boer,Salida Union Elementary,Stanislaus,4801 Gold Valley Road,Salida,CA,No,1,K-5,K-5,1198.7354924099534
+54105460135459,Active,Yes,Traditional,Elementary,Public,Blue Oak Academy,Tulare County Office of Education,Tulare,28050 Road 148,Visalia,CA,No,1,K-5,K-4,1193.676899060667
+50710430129106,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Patricia Kay Beaver Elementary,Ceres Unified,Stanislaus,4927 Central Avenue,Ceres,CA,No,1,K-8,K-8,1189.3544457995463
+50757396053136,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Turlock Junior High,Turlock Unified,Stanislaus,3951 North Walnut Road,Turlock,CA,No,1,7-8,6-8,1185.7993340700782
+10621660129338,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Rutherford B. Gaston Sr. Middle,Fresno Unified,Fresno,1100 East Church Avenue,Fresno,CA,No,1,7-8,7-8,1177.8945923219155
+16639416010474,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Kings River-Hardwick Elementary,Kings River-Hardwick Union Elementary,Kings,10300 Excelsior Avenue,Hanford,CA,No,1,K-8,K-8,1161.4977387847157
+51714646053417,Active,No,Traditional,Elementary,Public,Lincrest Elementary,Yuba City Unified,Sutter,1400 Phillips Road,Yuba City,CA,No,1,K-5,K-5,1146.1293126996277
+50710840120089,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Gratton Charter,Gratton Elementary,Stanislaus,4500 South Gratton Road,Denair,CA,Yes,2,K-8,K-8,1098.5729096382258
+50710846052534,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Gratton Elementary,Gratton Elementary,Stanislaus,4500 South Gratton Road,Denair,CA,Yes,2,K-8,K-8,1098.5729096382258
+15739081534155,Active,No,Traditional,High School,Public,McFarland High School Early College,McFarland Unified,Kern,259 West Sherwood Avenue,McFarland,CA,No,1,9-12,9-12,1090.9323829875448
+10622656006738,Active,No,Traditional,Elementary,Public,Alta Elementary,Kings Canyon Joint Unified,Fresno,21771 East Parlier Avenue,Reedley,CA,No,1,K-5,K-5,1089.6447990187764
+42692296060016,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Lompoc Valley Middle,Lompoc Unified,Santa Barbara,234 South N Street,Lompoc,CA,No,1,7-8,7-8,1086.1331231201057
+15638420113167,Active,No,Traditional,Elementary,Public,Teresa Burke Elementary,Wasco Union Elementary,Kern,1301 Filburn Street,Wasco,CA,No,1,K-5,K-5,1068.0096971820217
+50712666053037,Active,No,Traditional,Elementary,Public,Salida Elementary,Salida Union Elementary,Stanislaus,4519 Finney Road,Salida,CA,No,1,K-5,K-5,1042.6159809677592
+54722560101857,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Oak Grove Elementary,Visalia Unified,Tulare,4445 West Ferguson Avenue,Visalia,CA,No,1,K-8,K-8,1035.4749116000025
+40688096043269,Active,No,Traditional,Elementary,Public,Pacheco Elementary,San Luis Coastal Unified,San Luis Obispo,261 Cuesta Drive,San Luis Obispo,CA,No,1,P-6,K-6,1020.1880000000142
+57727106066252,Active,No,Traditional,Elementary,Public,Rhoda Maxwell Elementary,Woodland Joint Unified,Yolo,50 Ashley Avenue,Woodland,CA,No,1,K-6,K-6,1001.5954168454712
+39686766042550,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Elmwood Elementary,Stockton Unified,San Joaquin,840 South Cardinal Avenue,Stockton,CA,No,1,K-8,K-8,985.890735974614
+54722560116517,Active,No,Traditional,Elementary,Public,Manuel F. Hernandez,Visalia Unified,Tulare,2133 North Leila Street,Visalia,CA,No,1,P-6,K-6,982.773821022657
+15635786090591,Active,No,Traditional,Elementary,Public,Golden Oak Elementary,Richland Union Elementary,Kern,190 South Wall,Shafter,CA,No,1,P-6,K-6,979.5766600160099
+54722310127621,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Alpine Vista,Tulare City,Tulare,2975 East Alpine Avenue,Tulare,CA,No,1,K-8,K-8,964.2250523166836
+54722490116368,Active,No,Traditional,High School,Public,Mission Oak High,Tulare Joint Union High,Tulare,3442 East Bardsley Avenue,Tulare,CA,No,1,9-12,9-12,954.7374821531291
+10622816006894,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Laton Middle,Laton Joint Unified,Fresno,6065 East Latonia,Laton,CA,Yes,2,6-8,6-8,954.5281678451349
+10622816006902,Active,No,Traditional,Elementary,Public,Laton Elementary,Laton Joint Unified,Fresno,6065 Latonia,Laton,CA,Yes,2,K-5,K-5,954.5281678451349
+58105875830112,Active,Yes,Traditional,Elementary - High Combination,Public,Yuba County Career Preparatory Charter,Yuba County Office of Education,Yuba,1104 E Street,Marysville,CA,No,1,K-12,K-12,911.212191824647
+54718606112684,Active,No,Traditional,Elementary,Public,Golden Valley Elementary,Cutler-Orosi Joint Unified,Tulare,41465 Road 127,Orosi,CA,No,1,K-5,K-5,891.6023506784783
+50712826108302,Active,No,Traditional,Elementary,Public,Agnes M. Baptist Elementary,Stanislaus Union Elementary,Stanislaus,1825 Cheyenne Way,Modesto,CA,No,1,K-6,K-6,887.1675868246026
+10622400114587,Active,Yes,Community Day School,Intermediate/Middle/Junior High,Public,Island Community Day,Kingsburg Elementary Charter,Fresno,1776 Sixth Avenue Drive,Kingsburg,CA,No,1,4-8,7,880.9068426244418
+15638420138701,Active,No,Traditional,Elementary,Public,James A. Forrest Elementary,Wasco Union Elementary,Kern,401 North Griffith Avenue,Wasco,CA,No,1,K-5,K-5,878.165814678957
+39686500128215,Active,No,Continuation School,High School,Public,Harvest High,Ripon Unified,San Joaquin,729 West Main Street,Ripon,CA,No,1,9-12,11-12,874.8546447664372
+40688096043277,Active,No,Traditional,Elementary,Public,Bishop's Peak Elementary,San Luis Coastal Unified,San Luis Obispo,451 Jaycee Drive,San Luis Obispo,CA,Yes,2,K-6,K-6,868.2089052254051
+40688096043301,Active,No,Traditional,Elementary,Public,Teach Elementary,San Luis Coastal Unified,San Luis Obispo,165 Grand Avenue,San Luis Obispo,CA,Yes,2,4-6,4-6,868.2089052254051
+15635780135186,Active,Yes,Traditional,Elementary,Public,Grimmway Academy Shafter,Richland Union Elementary,Kern,471 West Los Angeles Street,Shafter,CA,No,1,K-8,K-6,825.0602833095226
+39685856098057,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Victor Elementary,Lodi Unified,San Joaquin,17670 North Bruella Road,Victor,CA,No,1,K-6,K-8,813.578380511845
+10624306007322,Active,No,Traditional,Elementary,Public,Terry Elementary,Selma Unified,Fresno,12906 South Fowler Avenue,Selma,CA,No,1,K-6,K-6,801.5478277379848
+10622406108328,Active,Yes,Traditional,Intermediate/Middle/Junior High,Public,Rafer Johnson Junior High,Kingsburg Elementary Charter,Fresno,1300 Stroud Avenue,Kingsburg,CA,No,1,7-8,7-8,799.6438920073153
+20651776023865,Active,No,Traditional,Elementary,Public,Alview Elementary,Alview-Dairyland Union Elementary,Madera,20513 Road 4,Chowchilla,CA,No,1,K-3,K-3,796.4777147271752
+10622400113142,Active,Yes,Traditional,Elementary,Public,Ronald W. Reagan Elementary,Kingsburg Elementary Charter,Fresno,1180 Diane Avenue,Kingsburg,CA,No,1,4-6,4-6,795.8917976209149
+54718605433230,Active,No,Traditional,High School,Public,Orosi High,Cutler-Orosi Joint Unified,Tulare,41815 Road 128,Orosi,CA,No,1,9-12,9-12,794.106551354964
+10624146007215,Active,No,Traditional,Elementary,Public,Wilson Elementary,Sanger Unified,Fresno,610 Faller Street,Sanger,CA,No,1,P-6,K-6,791.3966600936981
+10624146007124,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Fairmont Elementary,Sanger Unified,Fresno,3095 North Greenwood Avenue,Sanger,CA,No,1,K-8,K-8,781.2780401244049
+45699894530226,Active,No,Continuation School,High School,Public,Soldier Mountain High (Continuation),Fall River Joint Unified,Shasta,44144 A Street,McArthur,CA,Yes,2,9-12,10-12,779.9378580798569
+45699894530234,Active,No,Community Day School,Intermediate/Middle/Junior High - High Combination,Public,Fall River Community Day,Fall River Joint Unified,Shasta,44144 A Street,McArthur,CA,Yes,2,7-12,7-11,779.9378580798569
+30664496027478,Active,No,Traditional,Elementary,Public,Olinda Elementary,Brea-Olinda Unified,Orange,3145 East Birch Street,Brea,CA,No,1,K-6,K-6,779.2561728001114
+30666476030035,Active,No,Traditional,Elementary,Public,Golden Elementary,Placentia-Yorba Linda Unified,Orange,740 East Golden Avenue,Placentia,CA,Yes,2,K-6,K-6,779.2561728001114
+30666476089478,Active,No,Special Education School,Elementary - High Combination,Public,George Key,Placentia-Yorba Linda Unified,Orange,710 East Golden Avenue,Placentia,CA,Yes,2,K-Adult,K-12,779.2561728001114
+34674136033708,Active,No,Traditional,Elementary,Public,Walnut Grove Elementary,River Delta Joint Unified,Sacramento,14181 Grove Street,Walnut Grove,CA,No,1,K-6,K-6,779.0366293794459
+10624146007116,Active,No,Traditional,Elementary,Public,Del Rey Elementary,Sanger Unified,Fresno,10620 Morro Street,Del Rey,CA,No,1,P-6,K-6,775.5413240370387
+10622650116657,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Silas Bartsch,Kings Canyon Joint Unified,Fresno,2225 East North Avenue,Reedley,CA,No,1,P-8,K-8,763.9944511905768
+24657486025522,Active,No,Traditional,Elementary,Public,Selma Herndon Elementary,Livingston Union,Merced,714 Prusso Street,Livingston,CA,No,1,K-5,K-5,750.0596162495985
+58727366056733,Active,No,Traditional,Elementary,Public,Covillaud Elementary,Marysville Joint Unified,Yuba,628 F Street,Marysville,CA,No,1,K-5,K-5,731.5779419182891
+39685773933959,Active,No,Traditional,High School,Public,Linden High,Linden Unified,San Joaquin,18527 East Front Street,Linden,CA,No,1,9-12,9-12,724.0272542810932
+50710430109074,Active,No,Traditional,Elementary,Public,Joel J. Hidahl Elementary,Ceres Unified,Stanislaus,2351 East Redwood Road,Ceres,CA,No,1,K-6,K-6,713.9569919380566
+10622811033950,Active,No,Traditional,High School,Public,Laton High,Laton Joint Unified,Fresno,6449 DeWoody,Laton,CA,No,1,9-12,9-12,711.9175770029434
+57105790113787,Active,No,County Community School,High School,Public,Cesar Chavez Community,Yolo County Office of Education,Yolo,255 West Beamer Street,Woodland,CA,Yes,2,7-12,9-12,711.1952738463831
+57105796077275,Active,No,Special Education School,Elementary - High Combination,Public,Yolo County Special Education,Yolo County Office of Education,Yolo,285 West Beamer Street,Woodland,CA,Yes,2,K-12,K-12,711.1952738463831
+54722316054472,Active,No,Traditional,Elementary,Public,Frank Kohn Elementary,Tulare City,Tulare,500 South Laspina Street,Tulare,CA,No,1,K-6,K-6,706.8285922127861
+50105045030085,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,Stanislaus Military Academy at Teel,Stanislaus County Office of Education,Stanislaus,5255 1st Street,Empire,CA,Yes,3,9-12,8-12,695.3009271091341
+50710766052518,Active,No,Traditional,Elementary,Public,Empire Elementary,Empire Union Elementary,Stanislaus,5201 First St,Empire,CA,Yes,3,K-6,K-6,695.3009271091341
+50711750120212,Active,Yes,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Aspire Vanguard College Preparatory Academy,Modesto City High,Stanislaus,819 Sunset Avenue,Modesto,CA,Yes,3,6-12,6-12,695.3009271091341
+37683876070882,Active,No,Traditional,Elementary,Public,Solana Vista Elementary,Solana Beach Elementary,San Diego,780 Santa Victoria Avenue,Solana Beach,CA,No,1,K-3,K-3,691.1029089700777
+39685936107429,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,George McParland Elementary,Manteca Unified,San Joaquin,1601 Northgate Drive,Manteca,CA,No,1,K-8,K-8,681.4839585570287
+50757396115208,Active,No,Traditional,Elementary,Public,Dennis G. Earl Elementary,Turlock Unified,Stanislaus,4091 North Olive Avenue,Turlock,CA,No,1,K-6,K-6,681.3013281844172
+50711676052682,Active,No,Traditional,Elementary,Public,Fairview Elementary,Modesto City Elementary,Stanislaus,1937 West Whitmore Avenue,Modesto,CA,No,1,K-6,K-6,660.7561235322158
+10622650106815,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Thomas Law Reed Elementary,Kings Canyon Joint Unified,Fresno,1400 North Frankwood Avenue,Reedley,CA,No,1,K-8,K-8,640.7353032772511
+50712906095517,Active,No,Traditional,Elementary,Public,Stockard Coffee Elementary,Sylvan Union Elementary,Stanislaus,3900 Northview Drive,Modesto,CA,No,1,K-5,K-6,631.597418983405
+10755986005813,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Caruthers Elementary,Caruthers Unified,Fresno,13699 South Quince Quince Avenue and Tiller Avenue,Caruthers,CA,No,1,K-8,K-8,626.705329602537
+54722566092795,Active,No,Traditional,Elementary,Public,Linwood Elementary,Visalia Unified,Tulare,3129 South Linwood Street,Visalia,CA,Yes,2,K-6,K-6,622.6976857566109
+54722566112049,Active,No,Traditional,Intermediate/Middle/Junior High,Public,La Joya Middle,Visalia Unified,Tulare,4711 West La Vida,Visalia,CA,Yes,2,7-8,7-8,622.6976857566109
+39685776041974,Active,No,Traditional,Elementary,Public,Linden Elementary,Linden Unified,San Joaquin,18100 West Front Street,Linden,CA,No,1,K-4,K-4,611.4859332010058
+54718606118111,Active,No,Traditional,Intermediate/Middle/Junior High,Public,El Monte Middle,Cutler-Orosi Joint Unified,Tulare,42111 Road 128,Orosi,CA,No,1,6-8,6-8,609.93809328349
+15634046009369,Active,Yes,Traditional,Elementary,Public,Del Vista Math and Science Academy,Delano Union Elementary,Kern,710 Quincy Street,Delano,CA,No,1,K-5,K-5,607.6899428871847
+54755230116590,Active,Yes,Traditional,High School,Public,Harmony Magnet Academy,Porterville Unified,Tulare,19429 Road 228,Strathmore,CA,Yes,2,9-12,9-12,607.3649999999944
+54755235434931,Active,No,Traditional,High School,Public,Strathmore High,Porterville Unified,Tulare,22568 Avenue 196,Strathmore,CA,Yes,2,9-12,9-12,607.3649999999944
+15739081530146,Active,No,Continuation School,High School,Public,San Joaquin High (Continuation),McFarland Unified,Kern,599 Fifth Street,McFarland,CA,Yes,2,9-12,9-12,578.1922703596757
+15739081530229,Active,No,Alternative School of Choice,High School,Public,McFarland Independent,McFarland Unified,Kern,599 Fifth Street,McFarland,CA,Yes,2,9-12,9-12,578.1922703596757
+15739086009765,Active,No,Traditional,Elementary,Public,Kern Avenue Elementary,McFarland Unified,Kern,356 West Kern Avenue,McFarland,CA,No,1,K-6,K-6,558.5349165770391
+50712666120844,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Salida Middle School - Vella Campus,Salida Union Elementary,Stanislaus,5041 Toomes Road,Salida,CA,No,1,6-8,6-8,547.7362389202842
+56725536096838,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Los Primeros School of Sciences & Arts,Pleasant Valley,Ventura,1555 Kendall Avenue,Camarillo,CA,No,1,K-8,K-8,541.0205085358123
+54722560133819,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Ridgeview Middle,Visalia Unified,Tulare,3315 North Akers Street,Visalia,CA,No,1,7-8,7-8,530.1887099426018
+50105045030069,Active,No,Juvenile Court School,Intermediate/Middle/Junior High - High Combination,Public,Stanislaus County West Campus,Stanislaus County Office of Education,Stanislaus,2215 Blue Gum Avenue,Modesto,CA,Yes,2,K-12,7-12,529.3001305035104
+50105045030226,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,Petersen Alternative Center for Education,Stanislaus County Office of Education,Stanislaus,2209 Blue Gum Avenue,Modesto,CA,Yes,2,6-12,6-12,529.3001305035104
+54105466119291,Active,Yes,Traditional,Elementary - High Combination,Public,Eleanor Roosevelt Community Learning Center,Tulare County Office of Education,Tulare,31191 Road 180,Visalia,CA,No,1,K-12,K-12,526.6811167019582
+51713656053243,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Browns Elementary,Browns Elementary,Sutter,1248 Pacific Avenue,Rio Oso,CA,No,1,K-8,K-8,526.5597321544553
+58727440112623,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Riverside Meadows Intermediate,Plumas Lake Elementary,Yuba,1751 Cimarron Drive,Plumas Lake,CA,No,1,6-8,6-8,525.3569048325649
+54720256054183,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Outside Creek Elementary,Outside Creek Elementary,Tulare,26452 Road 164,Visalia,CA,No,1,K-8,K-8,515.0337270568921
+39685936042345,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Lincoln Elementary,Manteca Unified,San Joaquin,750 East Yosemite Avenue,Manteca,CA,No,1,K-8,K-8,506.236142733897
+39685936109532,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Stella Brockman Elementary,Manteca Unified,San Joaquin,763 Silverado Drive,Manteca,CA,No,1,K-8,K-8,497.85391691516736
+50711676052765,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Mark Twain Junior High,Modesto City Elementary,Stanislaus,707 Emerald Avenue,Modesto,CA,No,1,7-8,7-8,494.3335534747008
+10621666088546,Active,No,Traditional,Elementary,Public,King Elementary,Fresno Unified,Fresno,1001 East Florence Avenue,Fresno,CA,No,1,K-6,K-6,486.37836568581184
+30736506120141,Active,No,Traditional,Elementary,Public,Oak Creek Elementary,Irvine Unified,Orange,1 Dove Creek,Irvine,CA,No,1,K-6,K-6,486.1415848763416
+10622651030378,Active,No,Alternative School of Choice,Elementary - High Combination,Public,Mountain View (Alternative),Kings Canyon Joint Unified,Fresno,877 E. North Avenue,Reedley,CA,Yes,2,K-12,1-12,481.68554729303065
+10622651035310,Active,No,Traditional,High School,Public,Reedley High,Kings Canyon Joint Unified,Fresno,740 West North Avenue,Reedley,CA,Yes,2,9-12,9-12,481.68554729303065
+54722565430368,Active,No,Traditional,High School,Public,El Diamante High,Visalia Unified,Tulare,5100 West Whitendale Avenue,Visalia,CA,No,1,9-12,9-12,473.84188959724463
+24658706025829,Active,No,Traditional,Elementary,Public,Frank Sparkes Elementary,Winton,Merced,7265 West Almond Avenue,Winton,CA,No,1,K-5,K-5,473.6821169082814
+50711755030010,Active,No,Traditional,High School,Public,Fred C. Beyer High,Modesto City High,Stanislaus,1717 Sylvan Avenue,Modesto,CA,No,1,9-12,9-12,467.9483291208415
+54753256100275,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Farmersville Junior High,Farmersville Unified,Tulare,650 North Virginia Street,Farmersville,CA,No,1,7-8,7-8,461.25682594790834
+39685776041990,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Waterloo Elementary,Linden Unified,San Joaquin,7007 North Pezzi Road,Stockton,CA,No,1,5-8,5-8,458.64257249675734
+24658700111294,Active,No,Traditional,Elementary,Public,Winfield Elementary,Winton,Merced,6981 Chestnut Lane,Winton,CA,No,1,K-5,K-5,457.32802915102667
+54721816054407,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Sunnyside Elementary,Sunnyside Union Elementary,Tulare,21644 Avenue 196,Strathmore,CA,No,1,P-8,K-8,456.9043906228098
+30666470109678,Active,No,Traditional,Elementary,Public,Lakeview Elementary,Placentia-Yorba Linda Unified,Orange,17510 Lakeview Avenue,Yorba Linda,CA,No,1,K-5,K-5,455.7975892357613
+51713995130059,Active,No,Continuation School,High School,Public,Valley Oak Continuation High,Live Oak Unified,Sutter,2207 Pennington Road,Live Oak,CA,Yes,2,9-12,11-12,445.67023903929885
+51713995130067,Active,No,Alternative School of Choice,Intermediate/Middle/Junior High - High Combination,Public,Live Oak Alternative,Live Oak Unified,Sutter,2207 Pennington Road,Live Oak,CA,Yes,2,K-12,7-12,445.67023903929885
+54722566054704,Active,No,Traditional,Elementary,Public,Annie R. Mitchell,Visalia Unified,Tulare,2121 East Laura Avenue,Visalia,CA,No,1,P-6,K-6,443.96153240001854
+50712826053060,Active,No,Traditional,Elementary,Public,Josephine Chrysler Elementary,Stanislaus Union Elementary,Stanislaus,2818 Conant Avenue,Modesto,CA,No,1,K-6,K-6,441.4043793247701
+33672156032577,Active,No,Traditional,Elementary,Public,Emerson Elementary,Riverside Unified,Riverside,4660 Ottawa Avenue,Riverside,CA,No,1,P-6,K-6,431.8574358472704
+10622406006720,Active,Yes,Traditional,Elementary,Public,Washington Elementary,Kingsburg Elementary Charter,Fresno,1501 Ellis Street,Kingsburg,CA,No,1,K,K,414.41158423461
+54722560125708,Active,No,Traditional,Elementary,Public,Shannon Ranch Elementary,Visalia Unified,Tulare,3637 North Ranch Street,Visalia,CA,No,1,K-6,K-6,413.5494377099129
+15636936009914,Active,No,Traditional,Elementary,Public,Norris Elementary,Norris Elementary,Kern,7110 Old Farm Road,Bakersfield,CA,No,1,K-6,K-6,409.2188268632576
+10767781038306,Active,No,Traditional,High School,Public,Washington High,Washington Unified,Fresno,6041 South Elm Avenue,Fresno,CA,No,1,9-12,9-12,399.35360688973674
+51714646053409,Active,No,Traditional,Elementary,Public,Lincoln Elementary,Yuba City Unified,Sutter,1582 Lincoln Road,Yuba City,CA,No,1,K-5,K-5,393.28615715102734
+10623566007025,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Pacific Union Elementary,Pacific Union Elementary,Fresno,2065 East Bowles Avenue,Fresno,CA,No,1,K-8,K-8,391.5686794611346
+35752596035117,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,San Juan,Aromas - San Juan Unified,San Benito,100 Nyland Drive,San Juan Bautista,CA,No,1,K-8,K-8,386.92478881314713
+10623646115224,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Parlier Junior High,Parlier Unified,Fresno,1200 East Parlier Avenue,Parlier,CA,No,1,7-8,7-8,382.1029006570376
+10621170111153,Active,No,Traditional,Elementary,Public,Reagan Elementary,Clovis Unified,Fresno,3701 Ashlan Avenue,Clovis,CA,Yes,3,K-6,K-6,381.83550560000657
+10621171030683,Active,No,Traditional,High School,Public,Clovis East High,Clovis Unified,Fresno,2940 Leonard Avenue,Clovis,CA,Yes,3,9-12,9-12,381.83550560000657
+10621176109243,Active,No,Traditional,Elementary,Public,Red Bank Elementary,Clovis Unified,Fresno,1454 Locan Avenue,Clovis,CA,No,1,K-6,K-6,381.83550560000657
+10621176116321,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Reyburn Intermediate,Clovis Unified,Fresno,2901 DeWolf Avenue,Clovis,CA,Yes,3,7-8,7-8,381.83550560000657
+10621176120091,Active,No,Traditional,Elementary,Public,Freedom Elementary,Clovis Unified,Fresno,2955 Gettysburg Avenue,Clovis,CA,No,1,K-6,K-6,381.83550560000657
+50757396053177,Active,No,Traditional,Elementary,Public,Julien Elementary,Turlock Unified,Stanislaus,1924 East Canal Drive,Turlock,CA,No,1,K-6,K-6,375.3081684935087
+56739406112189,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Mesa Verde Middle,Moorpark Unified,Ventura,14000 Peach Hill Road,Moorpark,CA,No,1,6-8,6-8,373.4310115898822
+54718606053938,Active,No,Traditional,Elementary,Public,Palm Elementary,Cutler-Orosi Joint Unified,Tulare,12915 Avenue 419,Orosi,CA,No,1,K-5,K-5,369.9711768728426
+39686763932654,Active,No,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Franklin High,Stockton Unified,San Joaquin,4600 East Fremont Street,Stockton,CA,No,1,6-12,6-12,366.6389412236207
+35674700115428,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Hollister Dual Language Academy,Hollister,San Benito,"873 Santa Ana Road, Suite 200",Hollister,CA,Yes,3,K-8,K-8,359.41723899629216
+35674706112320,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Maze Middle,Hollister,San Benito,900 Meridian Street,Hollister,CA,Yes,3,6-8,6-8,359.41723899629216
+35674706114557,Active,No,Traditional,Elementary,Public,Gabilan Hills,Hollister,San Benito,901 Santa Ana Road,Hollister,CA,Yes,3,K-5,K-5,359.41723899629216
+39685936042394,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Shasta Elementary,Manteca Unified,San Joaquin,751 East Edison Street,Manteca,CA,No,1,K-8,K-8,357.833418354616
+10622656006878,Active,No,Traditional,Elementary,Public,Washington Elementary,Kings Canyon Joint Unified,Fresno,1250 K Street,Reedley,CA,No,1,P-5,K-5,345.7579221244523
+56768286055552,Active,No,Traditional,Elementary,Public,Blanchard Elementary,Santa Paula Unified,Ventura,115 Peck Road,Santa Paula,CA,No,1,K-5,K-5,344.82150850549914
+58727516056816,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Bear River,Wheatland,Yuba,100 Wheatland Park Drive,Wheatland,CA,Yes,2,4-8,4-8,343.7411924029183
+58727690123570,Active,No,Community Day School,High School,Public,Wheatland Community Day High,Wheatland Union High,Yuba,1010 Wheatland Road,Wheatland,CA,Yes,2,7-12,9-11,343.7411924029183
+10624306111124,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Abraham Lincoln Middle,Selma Unified,Fresno,1239 Nelson Boulevard,Selma,CA,No,1,7-8,7-8,340.33471911683466
+15101570119669,Active,Yes,Traditional,Elementary - High Combination,Public,Wonderful College Prep Academy,Kern County Office of Education,Kern,2070 Veneto Street,Delano,CA,No,1,K-12,K-12,339.2657713123778
+52715636053557,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Lassen View Elementary,Lassen View Union Elementary,Tehama,10818 Highway 99-E,Los Molinos,CA,No,1,K-8,K-8,338.2405323248595
+10622406006712,Active,Yes,Traditional,Elementary,Public,Roosevelt Elementary,Kingsburg Elementary Charter,Fresno,1185 Tenth Street,Kingsburg,CA,No,1,1,1,330.9952727707326
+39686760111344,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Wilhelmina Henry Elementary,Stockton Unified,San Joaquin,1107 South Wagner Avenue,Stockton,CA,No,1,K-8,K-8,327.1028341370531
+10739650113993,Active,No,Traditional,Elementary,Public,Harvest Elementary,Central Unified,Fresno,6514 West Gettysburg Avenue,Fresno,CA,Yes,3,K-6,K-6,317.636233199997
+10739650123943,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Glacier Point Middle,Central Unified,Fresno,4055 North Bryan Avenue,Fresno,CA,Yes,3,7-8,7-8,317.636233199997
+10739650140509,Pending,No,Traditional,High School,Public,Justin Garza High,Central Unified,Fresno,4100 North Grantland Avenue,Fresno,CA,Yes,3,9-12,No Data,317.636233199997
+15638426010268,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Thomas Jefferson Middle,Wasco Union Elementary,Kern,305 Griffith Avenue,Wasco,CA,No,1,6-8,6-8,316.28277623042516
+51713995135256,Active,No,Traditional,High School,Public,Live Oak High,Live Oak Unified,Sutter,2351 Pennington Road,Live Oak,CA,No,1,9-12,9-12,315.34606225974505
+15635291530021,Active,No,Continuation School,High School,Public,Central Valley High (Continuation),Kern High,Kern,526 Mannel Avenue,Shafter,CA,Yes,2,9-12,11-12,310.02905186291974
+15635291535087,Active,No,Traditional,High School,Public,Shafter High,Kern High,Kern,526 Mannel Avenue,Shafter,CA,Yes,2,9-12,9-12,310.02905186291974
+39686760108159,Active,No,Traditional,High School,Public,Cesar Chavez High,Stockton Unified,San Joaquin,2929 Windflower Lane,Stockton,CA,No,1,9-12,9-12,307.72812426486985
+33672153334406,Active,No,Traditional,High School,Public,John W. North High,Riverside Unified,Riverside,1550 West Third Street,Riverside,CA,No,1,9-12,9-12,301.8279927160163
+15637196009963,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Pond Elementary,Pond Union Elementary,Kern,29585 Pond Road,Wasco,CA,No,1,K-8,K-8,301.63631763666797
+24657716025621,Active,No,Traditional,Elementary,Public,Franklin Elementary,Merced City Elementary,Merced,2936 Franklin Road,Merced,CA,No,1,K-3,K-3,296.0819668909208
+15634121531656,Active,No,Continuation School,High School,Public,Valley High,Delano Joint Union High,Kern,1927 Randolph Street,Delano,CA,Yes,2,9-12,9-12,295.69988818790245
+15634121531672,Active,No,Traditional,High School,Public,Delano High,Delano Joint Union High,Kern,1331 Cecil Avenue,Delano,CA,Yes,2,9-12,9-12,295.69988818790245
+58727366056667,Active,No,Traditional,Elementary,Public,Cordua Elementary,Marysville Joint Unified,Yuba,2830 Highway 20,Marysville,CA,No,1,K-5,K-5,295.54824027127285
+15635786009989,Active,No,Traditional,Elementary,Public,Redwood Elementary,Richland Union Elementary,Kern,331 North Shafter Avenue,Shafter,CA,Yes,2,K-6,K-6,291.9295092354461
+15635786010003,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Richland Junior High,Richland Union Elementary,Kern,331 Shafter Avenue,Shafter,CA,Yes,2,7-8,7-8,291.9295092354461
+57727105738802,Active,No,Traditional,High School,Public,Woodland Senior High,Woodland Joint Unified,Yolo,21 North West Street,Woodland,CA,No,1,9-12,9-12,287.91882927782535
+10621581032150,Active,No,Traditional,High School,Public,Fowler High,Fowler Unified,Fresno,701 East Main Street,Fowler,CA,No,1,9-12,9-12,287.7454290029187
+54718606053904,Active,No,Traditional,Elementary,Public,Cutler Elementary,Cutler-Orosi Joint Unified,Tulare,40532 Road 128,Cutler,CA,No,1,K-5,K-5,284.8149312753175
+54721570114595,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Strathmore Elementary,Strathmore Union Elementary,Tulare,23024 Avenue 198,Strathmore,CA,Yes,2,K-8,K-8,283.0248651081924
+54721576120646,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Strathmore Community Day,Strathmore Union Elementary,Tulare,19938 Road 230,Strathmore,CA,Yes,2,K-8,5-8,283.0248651081924
+43695834333951,Active,No,Traditional,High School,Public,Live Oak High,Morgan Hill Unified,Santa Clara,1505 East Main Avenue,Morgan Hill,CA,No,1,9-12,9-12,281.75922617086485
+50711346119002,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Barbara Spratling Middle,Keyes Union,Stanislaus,5277 Washington Road,Hughson,CA,No,1,6-8,6-8,275.44133771765405
+54755310102707,Active,No,Traditional,Elementary,Public,John F. Kennedy Elementary,Dinuba Unified,Tulare,999 North Crawford,Dinuba,CA,Yes,2,K-6,K-6,271.3882932517269
+54755316053995,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Washington Intermediate,Dinuba Unified,Tulare,1150 North Hayes Avenue,Dinuba,CA,Yes,2,7-8,7-8,270.11948059924583
+39685936042337,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Lathrop Elementary,Manteca Unified,San Joaquin,15851 South Fifth Street,Lathrop,CA,No,1,K-8,K-8,267.6485827861522
+10621586115190,Active,No,Traditional,Intermediate/Middle/Junior High,Public,John Sutter Middle,Fowler Unified,Fresno,701 East Walter,Fowler,CA,No,1,6-8,6-8,264.65225468439274
+56725536112171,Active,No,Traditional,Elementary,Public,Tierra Linda Elementary,Pleasant Valley,Ventura,1201 Woodcreek Road,Camarillo,CA,No,1,K-5,K-5,255.75548681218177
+50710430108076,Active,No,Traditional,High School,Public,Central Valley High,Ceres Unified,Stanislaus,4033 Central Avenue,Ceres,CA,No,1,9-12,9-12,254.94168370117202
+15634046117915,Active,No,Traditional,Elementary,Public,Morningside,Delano Union Elementary,Kern,2100 Summer Drive,Delano,CA,No,1,K-5,K-5,253.24823285847185
+10623640107409,Active,No,Traditional,Elementary,Public,S Ben Benavidez Elementary,Parlier Unified,Fresno,13900 Tuolumne Street,Parlier,CA,No,1,K-6,K-6,253.10255354579496
+54722566107536,Active,No,Traditional,Elementary,Public,Pinkham Elementary,Visalia Unified,Tulare,2200 East Tulare Avenue,Visalia,CA,No,1,K-6,K-6,250.93477400000646
+24658706109425,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Winton Middle,Winton,Merced,6300 North Cypress Avenue,Winton,CA,No,1,6-8,6-8,250.08393741130874
+10622571033695,Active,No,Traditional,High School,Public,Kingsburg High,Kingsburg Joint Union High,Fresno,1900 18th Avenue,Kingsburg,CA,No,1,9-12,9-12,248.13388695901162
+54753255430210,Active,No,Traditional,High School,Public,Farmersville High,Farmersville Unified,Tulare,631 East Walnut Avenue,Farmersville,CA,No,1,9-12,9-12,241.33049274221574
+54753255430277,Active,No,Continuation School,High School,Public,Deep Creek Academy,Farmersville Unified,Tulare,281 South Farmersville Boulevard,Farmersville,CA,Yes,2,9-12,10-12,239.19364412775295
+54753256054076,Active,No,Traditional,Elementary,Public,George L. Snowden Elementary,Farmersville Unified,Tulare,301 South Farmersville Boulevard,Farmersville,CA,Yes,2,2-3,2-3,239.19364412775295
+10767780108993,Active,No,Community Day School,High School,Public,Easton Community Day,Washington Unified,Fresno,5865 South Clara Avenue,Fresno,CA,Yes,3,9-12,9-11,238.53380459708123
+10767780122473,Active,No,Alternative School of Choice,High School,Public,Elm High,Washington Unified,Fresno,5865 South Clara Avenue,Fresno,CA,Yes,3,9-12,9-12,238.53380459708123
+10767781038298,Active,No,Continuation School,High School,Public,Easton Continuation High,Washington Unified,Fresno,5865 South Clara Avenue,Fresno,CA,Yes,3,9-12,11-12,238.53380459708123
+50711676052690,Active,No,Traditional,Elementary,Public,Franklin Elementary,Modesto City Elementary,Stanislaus,120 South Emerald Avenue,Modesto,CA,No,1,K-6,K-6,237.48164543347445
+50711676052641,Active,No,Traditional,Elementary,Public,Burbank Elementary,Modesto City Elementary,Stanislaus,1135 Paradise Road,Modesto,CA,No,1,K-6,K-6,237.43661421428115
+24657486025506,Active,No,Traditional,Elementary,Public,Campus Park Elementary,Livingston Union,Merced,1845 H Street,Livingston,CA,No,1,K-5,K-5,236.23507536445953
+58727440114652,Active,No,Traditional,Elementary,Public,Cobblestone Elementary,Plumas Lake Elementary,Yuba,1718 Churchill Way,Plumas Lake,CA,No,1,K-5,K-5,234.49284346389825
+54722310113639,Active,No,Traditional,Elementary,Public,Mission Valley Elementary,Tulare City,Tulare,1695 Bella Oaks Drive,Tulare,CA,No,1,K-6,K-6,230.958147723977
+54719025430335,Active,No,Traditional,Elementary,Public,Alila,Earlimart Elementary,Tulare,850 West Washington Avenue,Earlimart,CA,No,1,K-5,K-5,230.90221707513916
+24657710112615,Active,No,Traditional,Elementary,Public,Joe Stefani,Merced City Elementary,Merced,2768 Ranchero Lane,Merced,CA,No,1,3-6,3-6,218.84179020638277
+58727366056659,Active,No,Traditional,Elementary,Public,Cedar Lane Elementary,Marysville Joint Unified,Yuba,841 Cedar Lane,Olivehurst,CA,No,1,K-6,K-6,218.3304078996162
+27659956026082,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Chualar Elementary,Chualar Union,Monterey,24285 Lincoln Street,Chualar,CA,No,1,K-8,K-8,214.0545246179861
+54719026054027,Active,No,Traditional,Elementary,Public,Earlimart Elementary,Earlimart Elementary,Tulare,192 South Church Road,Earlimart,CA,No,1,K-5,K-5,212.82334978218245
+58727690133751,Active,No,Continuation School,High School,Public,Edward P. Duplex,Wheatland Union High,Yuba,1010 Wheatland Road,Wheatland,CA,Yes,2,9-12,10-12,198.97795349048266
+58727695838305,Active,No,Traditional,High School,Public,Wheatland Union High,Wheatland Union High,Yuba,1010 Wheatland Road,Wheatland,CA,Yes,2,9-12,9-12,198.97795349048266
+54720906054324,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Rockford Elementary,Rockford Elementary,Tulare,14983 Road 208,Porterville,CA,No,1,K-8,K-8,192.99349791784647
+50711676052633,Active,No,Traditional,Elementary,Public,Bret Harte Elementary,Modesto City Elementary,Stanislaus,909 Glenn Avenue,Modesto,CA,No,1,K-6,K-6,192.55988381341774
+54722566054647,Active,No,Traditional,Elementary,Public,Mineral King Elementary,Visalia Unified,Tulare,3333 East Kaweah Avenue,Visalia,CA,No,1,P-6,K-6,190.19640200031026
+54755316107650,Active,No,Traditional,Elementary,Public,Roosevelt Elementary,Dinuba Unified,Tulare,1311 Euclid Avenue,Dinuba,CA,No,1,K-6,K-6,189.54733810371627
+10621170133314,Active,No,Traditional,Elementary,Public,Virginia R. Boris Elementary,Clovis Unified,Fresno,7071 East Clinton Avenue,Fresno ,CA,No,1,K-6,K-6,188.5533684197325
+51714156053300,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Meridian Elementary,Meridian Elementary,Sutter,15898 Central Street,Meridian,CA,No,1,K-8,K-8,187.79292726442316
+58727286115935,Active,Yes,Traditional,Elementary - High Combination,Public,CORE Charter,Camptonville Elementary,Yuba,321 16th Street,Marysville,CA,No,1,K-12,K-12,185.42917778715702
+10621176005920,Active,No,Traditional,Elementary,Public,Temperance-Kutner Elementary,Clovis Unified,Fresno,1448 North Armstrong Avenue,Fresno,CA,No,1,K-6,K-6,184.92208058957337
+43694846111785,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Brownell Middle,Gilroy Unified,Santa Clara,7800 Carmel Street,Gilroy,CA,No,1,6-8,6-8,183.00243781815024
+54755316053987,Active,No,Traditional,Elementary,Public,Lincoln Elementary,Dinuba Unified,Tulare,850 North Eaton Avenue,Dinuba,CA,No,1,K-6,K-6,182.4175630924051
+39685026041800,Active,No,Traditional,Elementary,Public,Farmington Elementary,Escalon Unified,San Joaquin,25233 East Highway 4,Farmington,CA,No,1,K-5,K-5,181.0412699842603
+16639250118919,Active,No,Traditional,High School,Public,Sierra Pacific High,Hanford Joint Union High,Kings,1259 North 13th Avenue,Hanford,CA,No,1,9-12,9-12,172.02824337447748
+57727026095368,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Winters Middle,Winters Joint Unified,Yolo,425 Anderson Avenue,Winters,CA,No,1,6-8,6-9,171.995783942984
+50757395037700,Active,No,Traditional,High School,Public,Turlock High,Turlock Unified,Stanislaus,1600 East Canal Drive,Turlock,CA,No,1,9-12,9-12,170.94139055909034
+10624141030824,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Community Day,Sanger Unified,Fresno,818 L Street,Sanger,CA,No,1,7-11,7-10,170.019696908093
+50755720117689,Active,No,Continuation School,High School,Public,Sentinel High,Waterford Unified,Stanislaus,121 South Reinway Avenue,Waterford,CA,Yes,2,9-12,11-12,168.9359351356223
+50755725030259,Active,No,Traditional,High School,Public,Waterford High,Waterford Unified,Stanislaus,121 South Reinway,Waterford,CA,Yes,2,9-12,9-12,168.9359351356223
+54753250106021,Active,No,Traditional,Elementary,Public,Freedom Elementary,Farmersville Unified,Tulare,575 East Citrus,Farmersville,CA,No,1,4-6,4-6,168.03782212050106
+39685856042055,Active,No,Traditional,Elementary,Public,Davis Elementary,Lodi Unified,San Joaquin,5224 East Morada Lane,Stockton,CA,No,1,K-6,K-6,158.4785057995058
+50710436112338,Active,No,Traditional,Elementary,Public,Samuel Vaughn Elementary,Ceres Unified,Stanislaus,3618 Helen Perry Road,Ceres,CA,No,1,K-6,K-6,147.7865433018372
+54722560139105,Active,No,Traditional,Elementary,Public,Denton Elementary,Visalia Unified,Tulare,2231 North Denton,Visalia,CA,No,1,K-6,K-6,145.70001674124302
+50712330121525,Active,Yes,Traditional,Intermediate/Middle/Junior High,Public,Roberts Ferry Charter School Academy,Roberts Ferry Union Elementary,Stanislaus,101 Roberts Ferry Road,Waterford,CA,Yes,2,K-8,6-8,145.11512697679973
+50712336053011,Active,No,Traditional,Elementary,Public,Roberts Ferry Union Elementary,Roberts Ferry Union Elementary,Stanislaus,101 Roberts Ferry Road,Waterford,CA,Yes,2,K-8,K-5,145.11512697679973
+39685936042311,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,French Camp Elementary,Manteca Unified,San Joaquin,241 East Fourth Street,French Camp,CA,No,1,K-8,K-8,144.92451095717968
+54722566054563,Active,No,Traditional,Elementary,Public,Elbow Creek Elementary,Visalia Unified,Tulare,32747 Road 138,Visalia,CA,No,1,P-6,K-6,143.5499999999994
+54753256054084,Active,No,Traditional,Elementary,Public,J. E. Hester Elementary,Farmersville Unified,Tulare,477 East Ash Street,Farmersville,CA,No,1,K-1,K-1,143.2794024826503
+50712900113795,Active,No,Traditional,Elementary,Public,Crossroads Elementary,Sylvan Union Elementary,Stanislaus,5800 Saxon Way,Riverbank,CA,No,1,K-5,K-5,143.25379392610955
+40687590125328,Active,No,Traditional,High School,Public,Central Coast New Tech High,Lucia Mar Unified,San Luis Obispo,525 North Thompson Avenue,Nipomo,CA,Yes,2,9-12,9-12,140.99999999999886
+40687594030268,Active,No,Traditional,Intermediate/Middle/Junior High - High Combination,Public,Nipomo High,Lucia Mar Unified,San Luis Obispo,525 North Thompson Road,Nipomo,CA,Yes,2,9-12,6-12,140.99999999999886
+39685936120505,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,George Y. Komure Elementary,Manteca Unified,San Joaquin,2121 Henry Long Boulevard,Stockton,CA,No,1,K-8,K-8,140.42003938909937
+11101161130103,Active,Yes,County Community School,Elementary - High Combination,Public,William Finch,Glenn County Office of Education,Glenn,607 East Tehama Street,Orland,CA,No,1,K-12,K-12,139.37808639115138
+11101166077184,Active,No,Special Education School,Elementary - High Combination,Public,Glenn County Special Education,Glenn County Office of Education,Glenn,311 South Villa Avenue,Willows,CA,No,1,K-12,K-12,139.2115757308689
+10624141036094,Active,No,Traditional,High School,Public,Sanger High,Sanger Unified,Fresno,1045 Bethel Avenue,Sanger,CA,No,1,9-12,9-12,133.99014062649243
+16639170110981,Active,No,Traditional,Elementary,Public,Hamilton Elementary,Hanford Elementary,Kings,1269 Leland Way,Hanford,CA,No,1,K-6,K-6,133.6422139871306
+15638426010243,Active,No,Traditional,Elementary,Public,Karl F. Clemens Elementary,Wasco Union Elementary,Kern,523 Broadway Avenue,Wasco,CA,No,1,K-5,K-5,132.1294808704402
+50711676110068,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Evelyn Hanshaw Middle,Modesto City Elementary,Stanislaus,1725 Las Vegas Street,Modesto,CA,No,1,7-8,7-8,131.61697341723547
+24656982430080,Active,No,Continuation School,High School,Public,Irwin High (Continuation),Hilmar Unified,Merced,20384 Geer Avenue,Hilmar,CA,Yes,5,9-12,10-12,130.91949033450146
+24656982430106,Active,No,Alternative School of Choice,High School,Public,Colony Basic Skills Alternative High,Hilmar Unified,Merced,20384 Geer Avenue,Hilmar,CA,Yes,5,9-12,11-12,130.91949033450146
+24656982432409,Active,No,Traditional,High School,Public,Hilmar High,Hilmar Unified,Merced,7807 North Lander Avenue,Hilmar,CA,Yes,5,9-12,9-12,130.91949033450146
+24656986025464,Active,No,Traditional,Elementary,Public,Elim Elementary,Hilmar Unified,Merced,7677 North Lander Avenue,Hilmar,CA,Yes,5,K-5,K-5,130.91949033450146
+24656986109458,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Hilmar Middle,Hilmar Unified,Merced,7528 North Scholar Way,Hilmar,CA,Yes,5,6-8,6-8,130.91949033450146
+40687596043061,Active,No,Traditional,Elementary,Public,Nipomo Elementary,Lucia Mar Unified,San Luis Obispo,190 East Price Street,Nipomo,CA,No,1,K-6,K-6,129.86273448423518
+10621580108977,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Fowler Academy Community Day (9-12),Fowler Unified,Fresno,975 East Adams Avenue,Fowler,CA,Yes,3,9-12,9-10,129.8182178789618
+10621580126250,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Fowler Academy Community Day,Fowler Unified,Fresno,975 East Adams Avenue,Fowler,CA,Yes,3,K-8,8,129.8182178789618
+10621586006050,Active,No,Traditional,Elementary,Public,Marshall Elementary,Fowler Unified,Fresno,142 North Armstrong Avenue,Fowler,CA,Yes,3,K-2,K-2,129.8182178789618
+15634046009351,Active,Yes,Traditional,Intermediate/Middle/Junior High,Public,Cecil Avenue Math and Science Academy,Delano Union Elementary,Kern,1430 Cecil Avenue,Delano,CA,No,1,6-8,6-8,128.13198997204938
+56725536055438,Active,No,Traditional,Elementary,Public,Las Posas Elementary,Pleasant Valley,Ventura,75 Calle La Guerra,Camarillo,CA,No,1,P-5,K-5,127.451017594881
+10621581031954,Active,No,Continuation School,High School,Public,Fowler Academy Continuation,Fowler Unified,Fresno,975 E. Adams Avenue,Fowler,CA,No,1,7-12,11-12,126.39892895804722
+33672156032692,Active,No,Traditional,Elementary,Public,Longfellow Elementary,Riverside Unified,Riverside,3610 Eucalyptus Avenue,Riverside,CA,No,1,P-6,K-6,125.68940431217233
+54719020101303,Active,No,Community Day School,Intermediate/Middle/Junior High,Public,Earlimart Community Day,Earlimart Elementary,Tulare,599 East Sutter Avenue,Earlimart,CA,Yes,2,4-8,6-8,123.58397265637787
+54719026054035,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Earlimart Middle,Earlimart Elementary,Tulare,599 South Sutter Street,Earlimart,CA,Yes,2,6-8,6-8,123.58397265637787
+10622571033729,Active,No,Continuation School,High School,Public,Oasis Continuation High,Kingsburg Joint Union High,Fresno,2311 Sierra Street,Kingsburg,CA,No,1,9-12,10-12,122.81060094337715
+06615986003495,Active,No,Traditional,Elementary,Public,James M. Burchfield Primary,Colusa Unified,Colusa,400 Fremont Street,Colusa,CA,No,1,K-3,K-3,122.50878333302813
+11626616007611,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Willows Intermediate,Willows Unified,Glenn,1145 West Cedar Street,Willows,CA,Yes,2,6-8,6-8,120.52449091533532
+11743851190016,Active,No,Regional Occupational Center/Program,High School,Public,Glenn County ROP,Glenn County ROP,Glenn,451 South Villa Avenue,Willows,CA,Yes,2,9-12,No Data,120.52449091533532
+42692606045702,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Olga L. Reed Elementary,Orcutt Union Elementary,Santa Barbara,480 Centennial Street,Los Alamos,CA,No,1,K-8,K-8,119.15453575994201
+39686766116115,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,San Joaquin Elementary,Stockton Unified,San Joaquin,2020 South Fresno Avenue,Stockton,CA,No,1,K-8,K-8,118.92969489668448
+56725536055412,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Pleasant Valley School of Engineering and Arts,Pleasant Valley,Ventura,700 Temple Avenue,Camarillo,CA,No,1,P-8,K-8,118.70824026299474
+50712820105700,Active,No,Traditional,Elementary,Public,Mary Lou Dieterich Elementary,Stanislaus Union Elementary,Stanislaus,2412 Warm Springs Drive,Modesto,CA,No,1,K-6,K-6,115.8140413483831
+15638591536440,Active,No,Traditional,High School,Public,Wasco High,Wasco Union High,Kern,1900 Seventh Street,Wasco,CA,No,1,9-12,9-12,112.16864701935535
+39686760100206,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,George W. Bush Elementary,Stockton Unified,San Joaquin,5420 Fred Russo Drive,Stockton,CA,No,1,K-8,K-8,109.48109351520408
+50710436052468,Active,No,Traditional,Elementary,Public,Westport Elementary,Ceres Unified,Stanislaus,5218 South Carpenter,Modesto,CA,No,1,K-6,K-6,107.31340348488064
+15638426010250,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Palm Avenue Middle,Wasco Union Elementary,Kern,1017 Palm Avenue,Wasco,CA,No,1,6-8,6-8,106.74208708134177
+50710760101493,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Norman N. Glick Middle,Empire Union Elementary,Stanislaus,400 Frazine Road,Modesto,CA,No,1,7-8,7-8,105.06264380906406
+39686760115303,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Valentine Peyton Elementary,Stockton Unified,San Joaquin,2525 Gold Brook Drive,Stockton,CA,No,1,K-8,K-8,98.45434896106103
+37771560137323,Active,Yes,Traditional,Elementary - High Combination,Public,Vista Springs Charter,SBE - Vista Springs Charter,San Diego,700 East Bobier Avenue,Vista,CA,No,1,K-12,K-11,97.15730919973757
+35103553530037,Active,No,Opportunity School,Intermediate/Middle/Junior High,Public,San Benito County Opportunity,San Benito County Office of Education,San Benito,191 Alvarado Street,Hollister,CA,Yes,2,7-9,8-9,96.05265000797219
+35675383530029,Active,No,Continuation School,High School,Public,San Andreas Continuation High,San Benito High,San Benito,191 Alvarado Street,Hollister,CA,Yes,2,9-12,10-12,96.05265000797219
+56725536055396,Active,No,Traditional,Elementary,Public,Camarillo Heights Elementary,Pleasant Valley,Ventura,35 Catalina Drive,Camarillo,CA,No,1,K-5,K-5,94.76883932347086
+56725386055347,Active,No,Traditional,Elementary,Public,Marina West Elementary,Oxnard,Ventura,2501 Carob Street,Oxnard,CA,No,1,K-5,K-5,93.99109980859312
+50755720117770,Active,No,Traditional,Elementary,Public,Lucille Whitehead Intermediate,Waterford Unified,Stanislaus,119 North Reinway Avenue,Waterford,CA,Yes,2,4-6,4-6,92.93700948312265
+50755720118513,Active,No,Traditional,Elementary,Public,Richard M. Moon Primary,Waterford Unified,Stanislaus,319 North Reinway Avenue,Waterford,CA,Yes,2,K-3,K-3,92.93700948312265
+50711676107023,Active,No,Traditional,Elementary,Public,Alberta Martone Elementary,Modesto City Elementary,Stanislaus,1413 Poust Road,Modesto,CA,No,1,K-6,K-6,90.76560858668428
+56105610109900,Active,Yes,Traditional,High School,Public,Vista Real Charter High,Ventura County Office of Education,Ventura,"401 South A Street, Suite 3",Oxnard,CA,No,1,9-12,9-12,89.75847471902853
+54720096054167,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Monson-Sultana Elementary,Monson-Sultana Joint Union Elementary,Tulare,10643 Avenue 416,Dinuba,CA,No,1,K-8,K-8,83.02130130962587
+50712660133660,Active,No,Traditional,Elementary,Public,Mildred Perkins Elementary,Salida Union Elementary,Stanislaus,3920 Blue Bird Drive,Modesto,CA,Yes,3,K-5,K-5,82.0187668065025
+50105040129023,Active,Yes,County Community School,High School,Public,Stanislaus Alternative Charter,Stanislaus County Office of Education,Stanislaus,1100 H Street,Modesto,CA,Yes,3,9-12,12,81.95949909434486
+50712660120063,Active,Yes,Traditional,Elementary,Public,Independence Charter,Salida Union Elementary,Stanislaus,3920 Blue Bird Drive,Modesto,CA,Yes,3,K-8,K-5,81.95949909434486
+16101651630102,Active,No,Juvenile Court School,Intermediate/Middle/Junior High - High Combination,Public,J. C. Montgomery,Kings County Office of Education,Kings,1450 Forum Drive,Hanford,CA,Yes,2,7-12,8-12,79.16644773947525
+11626611130038,Active,No,Continuation School,High School,Public,Willows Community High,Willows Unified,Glenn,823 West Laurel Street,Willows,CA,No,1,10-12,10-12,78.49794476643709
+10739656006662,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Houghton-Kearney Elementary,Central Unified,Fresno,8905 West Kearney Boulevard,Fresno,CA,No,1,K-8,K-8,76.60668167196985
+24657892433605,Active,No,Traditional,High School,Public,Livingston High,Merced Union High,Merced,1617 Main Street,Livingston,CA,No,1,9-12,9-12,74.66922631194363
+10622406006704,Active,Yes,Traditional,Elementary,Public,Lincoln Elementary,Kingsburg Elementary Charter,Fresno,1900 Mariposa Street,Kingsburg,CA,No,1,2-3,2-3,73.12701568190572
+50712826067250,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Prescott Junior High,Stanislaus Union Elementary,Stanislaus,2243 West Rumble Road,Modesto,CA,No,1,7-8,7-8,71.76514769598263
+43695836109375,Active,No,Traditional,Elementary,Public,El Toro Health Science Academy,Morgan Hill Unified,Santa Clara,455 East Main Avenue,Morgan Hill,CA,No,1,K-5,K-5,70.78841389015977
+54722565435839,Active,No,Continuation School,High School,Public,Sequoia High,Visalia Unified,Tulare,901 North Mooney Boulevard,Visalia,CA,Yes,2,9-12,10-12,69.54576291558662
+58727516056840,Active,No,Traditional,Elementary,Public,Wheatland Elementary,Wheatland,Yuba,111 Hooper Street,Wheatland,CA,No,1,K-3,K-3,69.40322946202838
+10624146007132,Active,No,Traditional,Elementary,Public,Jackson Elementary,Sanger Unified,Fresno,1810 Third Street,Sanger,CA,No,1,P-6,K-6,68.40381693352394
+11101160124909,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Walden Academy,Glenn County Office of Education,Glenn,1149 West Wood Street,Willows,CA,No,1,K-8,K-8,68.30323788174324
+57726786066245,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Ralph Waldo Emerson Junior High,Davis Joint Unified,Yolo,2121 Calaveras Avenue,Davis,CA,No,1,7-9,7-9,63.73873121936645
+54720826114672,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Richgrove Elementary,Richgrove Elementary,Tulare,20812 Grove Drive,Richgrove,CA,No,1,K-8,K-8,62.098610234988556
+54722566054720,Active,No,Traditional,Elementary,Public,Washington Elementary,Visalia Unified,Tulare,500 South Garden,Visalia,CA,No,1,K-8,K-6,60.73837199969619
+50710430123679,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Cesar Chavez Junior High,Ceres Unified,Stanislaus,2701 Eastgate Boulevard,Ceres,CA,Yes,2,7-8,7-8,60.723958309984155
+50710430110734,Active,No,Traditional,Elementary,Public,La Rosa Elementary,Ceres Unified,Stanislaus,2800 Eastgate Boulevard,Ceres,CA,Yes,2,K-6,K-6,60.603840472075284
+10621176005847,Active,No,Traditional,Elementary,Public,Cole Elementary,Clovis Unified,Fresno,615 West Stuart Avenue,Clovis,CA,No,1,K-6,K-6,59.39999999999989
+10621660114553,Active,Yes,Traditional,High School,Public,University High,Fresno Unified,Fresno,2611 East Matoian M/S UH134,Fresno,CA,No,1,9-12,9-12,58.39340548468217
+37684523730728,Active,No,Traditional,High School,Public,Rancho Buena Vista High,Vista Unified,San Diego,1601 Longhorn Drive,Vista,CA,No,1,9-12,9-12,54.921482169354064
+50710430107128,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Whitmore Charter School of Art & Technology,Ceres Unified,Stanislaus,3435 Don Pedro Road,Ceres,CA,Yes,2,K-8,K-8,53.19959126920975
+50710430107136,Active,Yes,Traditional,High School,Public,Whitmore Charter High,Ceres Unified,Stanislaus,3435 Don Pedro Road,Ceres,CA,Yes,2,9-12,9-12,53.19959126920975
+16101656069298,Active,No,Special Education School,Elementary - High Combination,Public,Kings County Special Education,Kings County Office of Education,Kings,959 Katie Hammond Lane,Hanford,CA,Yes,3,P-12,K-12,52.535419539291944
+16639176010409,Active,No,Traditional,Elementary,Public,Lee Richmond Elementary,Hanford Elementary,Kings,939 Katie Hammond Street,Hanford,CA,Yes,3,K-6,K-6,52.535419539291944
+16639176112379,Active,No,Traditional,Intermediate/Middle/Junior High,Public,John F. Kennedy Junior High,Hanford Elementary,Kings,1000 East Florinda Street,Hanford,CA,Yes,3,7-8,7-8,52.535419539291944
+11626611132851,Active,No,Traditional,High School,Public,Willows High,Willows Unified,Glenn,203 North Murdock Avenue,Willows,CA,No,1,9-12,9-12,51.16556085586146
+54722566116909,Active,Yes,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Charter Home School Academy,Visalia Unified,Tulare,211 West Tulare Avenue,Visalia,CA,No,1,K-8,K-8,50.45087387235933
+50710436052443,Active,No,Traditional,Elementary,Public,Don Pedro Elementary,Ceres Unified,Stanislaus,2300 Don Pedro Road,Ceres,CA,No,1,K-6,K-6,49.5036752571233
+43695836047914,Active,No,Traditional,Elementary,Public,Nordstrom Elementary,Morgan Hill Unified,Santa Clara,1425 East Dunne Avenue,Morgan Hill,CA,No,1,K-5,K-5,47.53565072436117
+57726786110894,Active,No,Traditional,Elementary,Public,Patwin Elementary,Davis Joint Unified,Yolo,2222 Shasta Drive,Davis,CA,No,1,K-6,K-6,43.20865881675903
+50710766111892,Active,No,Traditional,Elementary,Public,Alice N. Stroud Elementary,Empire Union Elementary,Stanislaus,815 Frazine Road,Modesto,CA,No,1,K-6,K-6,41.66143700943939
+50710506052492,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Mountain View Middle,Chatom Union,Stanislaus,10001 Crows Landing Road,Turlock,CA,No,1,6-8,6-8,39.18488632100769
+27661756026637,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,San Ardo Elementary,San Ardo Union Elementary,Monterey,62428 Center Street,San Ardo,CA,No,1,K-8,K-8,39.144772072401345
+50710430127613,Active,No,Traditional,Elementary,Public,Lucas Elementary,Ceres Unified,Stanislaus,3500 Rose Avenue,Ceres,CA,No,1,K-6,K-6,38.807410102800134
+15634046111355,Active,No,Traditional,Elementary,Public,Princeton Street Elementary,Delano Union Elementary,Kern,1959 Princeton Street,Delano,CA,No,1,K-5,K-5,37.35083801438981
+10621586006027,Active,No,Traditional,Elementary,Public,Fremont Elementary,Fowler Unified,Fresno,306 East Tuolumne Street,Fowler,CA,No,1,3-5,3-5,31.669063251338727
+54719856054134,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Liberty Elementary,Liberty Elementary,Tulare,1771 East Pacific Avenue,Tulare,CA,No,1,K-8,K-8,28.564500777402042
+39686766115422,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Rio Calaveras Elementary,Stockton Unified,San Joaquin,1819 East Bianchi Road,Stockton,CA,No,1,K-8,K-8,28.182460404279528
+50711676052799,Active,No,Traditional,Elementary,Public,Robertson Road Elementary,Modesto City Elementary,Stanislaus,1821 Robertson Road,Modesto,CA,Yes,2,K-6,K-6,27.982250174598228
+50711676105670,Active,No,Traditional,Elementary,Public,Harriette Kirschen Elementary,Modesto City Elementary,Stanislaus,1900 Kirschen Drive,Modesto,CA,Yes,2,K-6,K-6,27.982250174598228
+43104390131748,Active,Yes,Traditional,Elementary,Public,Voices College-Bound Language Academy at Morgan Hill,Santa Clara County Office of Education,Santa Clara,610 Jarvis Drive,Morgan Hill,CA,No,1,K-8,K-5,27.551770506997475
+06615986057152,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,George T. Egling Middle,Colusa Unified,Colusa,813 Webster Street,Colusa,CA,No,1,4-8,4-8,26.10492723883066
+39686766042519,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,August Elementary,Stockton Unified,San Joaquin,2101 Sutro Avenue,Stockton,CA,No,1,K-8,K-8,25.933687432065895
+11626616007603,Active,No,Traditional,Elementary,Public,Murdock Elementary,Willows Unified,Glenn,655 West French Street,Willows,CA,No,1,K-5,K-5,24.291862048564887
+50755560118810,Active,No,Traditional,Elementary,Public,Mesa Verde Elementary,Riverbank Unified,Stanislaus,4850 Mesa Drive,Oakdale,CA,No,1,K-5,K-5,23.906874514667393
+57726786056303,Active,No,Traditional,Elementary,Public,Robert E. Willett Elementary,Davis Joint Unified,Yolo,1207 Sycamore Lane,Davis,CA,No,1,K-6,K-6,22.767144059535827
+16639176010433,Active,No,Traditional,Elementary,Public,Roosevelt Elementary,Hanford Elementary,Kings,870 Davis Street,Hanford,CA,No,1,K-6,K-6,17.104206169920634
+50710430133827,Active,No,Special Education School,High School,Public,Ceres Special Education,Ceres Unified,Stanislaus,2503 Lawrence Street,Ceres,CA,Yes,3,K-12,12,16.06009727929479
+50710435030200,Active,No,Continuation School,High School,Public,Argus High (Continuation),Ceres Unified,Stanislaus,2555 Lawrence Street,Ceres,CA,Yes,3,9-12,10-12,16.06009727929479
+50710436052450,Active,No,Traditional,Elementary,Public,Walter White Elementary,Ceres Unified,Stanislaus,2904 Sixth Street,Ceres,CA,Yes,3,K-6,K-6,16.06009727929479
+16638756010284,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Parkview Middle,Armona Union Elementary,Kings,11075 C Street,Armona,CA,No,1,5-8,5-8,15.08230395786969
+06615980630012,Active,No,Continuation School,High School,Public,Colusa Alternative High (Continuation),Colusa Unified,Colusa,901 Colus Avenue,Colusa,CA,No,1,9-12,10-12,14.531561074634201
+33672156059158,Active,No,Traditional,Intermediate/Middle/Junior High,Public,University Heights Middle,Riverside Unified,Riverside,1155 Massachusetts Avenue,Riverside,CA,No,1,7-8,7-8,13.897808590635208
+15638591530351,Active,No,Continuation School,High School,Public,Wasco Independence High,Wasco Union High,Kern,1445 Poso Drive,Wasco,CA,No,1,9-12,9-12,13.754567153570273
+50710506052484,Active,No,Traditional,Elementary,Public,Chatom Elementary,Chatom Union,Stanislaus,7221 Clayton Road,Turlock,CA,No,1,K-5,K-5,13.517766700000013
+39685850122879,Active,No,Community Day School,High School,Public,Walter J. Katnich Community Day,Lodi Unified,San Joaquin,13451 North Extension Road,Lodi,CA,Yes,4,7-12,9-12,12.444689144507606
+39685850132837,Active,No,Alternative School of Choice,Intermediate/Middle/Junior High,Public,Henderson,Lodi Unified,San Joaquin,13451 North Extension Road,Lodi,CA,Yes,4,7-8,7-8,12.444689144507606
+39685853930344,Active,No,Alternative School of Choice,Elementary - High Combination,Public,Independence,Lodi Unified,San Joaquin,13451 North Extension Road,Lodi,CA,Yes,4,K-12,2-12,12.444689144507606
+39685850139261,Active,No,Alternative School of Choice,Intermediate/Middle/Junior High,Public,Valley Robotics Academy,Lodi Unified,San Joaquin,13451 North Extension Road,Lodi,CA,Yes,4,K-12,7-9,12.444688760207084
+50105040131235,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,John B Allard,Stanislaus County Office of Education,Stanislaus,3113 Mitchell Road,Ceres,CA,No,1,6-12,6-12,11.029627863963926
+56725386055271,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Driffill Elementary,Oxnard,Ventura,910 South E Street,Oxnard,CA,No,1,K-8,K-8,10.940660454112473
+37735516037782,Active,No,Traditional,Elementary,Public,Jefferson Elementary,Carlsbad Unified,San Diego,3743 Jefferson Street,Carlsbad,CA,No,1,K-5,K-5,10.470143850687995
+06100660630111,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,S. William Abel Academy,Colusa County Office of Education,Colusa,499 Margurite Street Suite B,Williams,CA,No,1,7-12,7-12,10.184868504600844
+57726786056295,Active,No,Traditional,Elementary,Public,Cesar Chavez Elementary,Davis Joint Unified,Yolo,1221 Anderson Road,Davis,CA,No,1,K-6,K-6,9.864898246317964
+52714726053466,Active,No,Traditional,Elementary,Public,Antelope Elementary,Antelope Elementary,Tehama,22630 Antelope Boulevard,Red Bluff,CA,No,1,K-5,K-5,8.909518429374561
+10621170123869,Active,No,Traditional,Elementary,Public,Roger S. Oraze Elementary,Clovis Unified,Fresno,3468 North Armstrong Avenue,Fresno,CA,No,1,K-6,K-6,8.297219443992445
+50711755030135,Active,No,Traditional,High School,Public,Peter Johansen High,Modesto City High,Stanislaus,641 Norseman Drive,Modesto,CA,No,1,9-12,9-12,8.245312870982492
+50755565036850,Active,No,Traditional,High School,Public,Riverbank High,Riverbank Unified,Stanislaus,6200 Claus Road,Riverbank,CA,No,1,9-12,9-12,7.856559244727968
+10621176005938,Active,No,Traditional,Elementary,Public,Weldon Elementary,Clovis Unified,Fresno,150 DeWitt Avenue,Clovis,CA,No,1,K-6,K-6,7.212779377913959
+50710430109090,Active,No,Traditional,Elementary,Public,Sinclear Elementary,Ceres Unified,Stanislaus,1211 Hackett Road,Ceres,CA,No,1,K-6,K-6,7.092191278000827
+06615980631259,Active,No,Traditional,High School,Public,Colusa High,Colusa Unified,Colusa,901 Colus Avenue,Colusa,CA,No,1,9-12,9-12,6.479741031870573
+37684376040562,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Vallecitos Elementary,Vallecitos Elementary,San Diego,5211 Fifth Street,Rainbow,CA,No,1,K-8,K-8,6.4543039557074335
+39685933932001,Active,No,Traditional,High School,Public,East Union High,Manteca Unified,San Joaquin,1700 North Union Road,Manteca,CA,Yes,2,9-12,9-12,6.101437244918514
+39685936104533,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Neil Hafley Elementary,Manteca Unified,San Joaquin,849 Northgate Avenue,Manteca,CA,Yes,2,K-8,K-8,6.101437244918514
+50712826098297,Active,No,Traditional,Elementary,Public,George Eisenhut Elementary,Stanislaus Union Elementary,Stanislaus,1809 Sheldon Drive,Modesto,CA,No,1,K-6,K-6,5.825904871079441
+50711676052773,Active,No,Traditional,Elementary,Public,James Marshall Elementary,Modesto City Elementary,Stanislaus,515 Sutter Avenue,Modesto,CA,No,1,K-6,K-6,5.756275725432582
+39685850108209,Active,No,Traditional,Elementary,Public,Ellerth E. Larson Elementary,Lodi Unified,San Joaquin,2375 Giannoni Way,Lodi,CA,No,1,K-6,K-6,5.708797760711629
+50755560112573,Active,No,Continuation School,High School,Public,Adelante High,Riverbank Unified,Stanislaus,6801 Seventh Street,Riverbank,CA,Yes,2,10-12,10-12,5.621159486585702
+50755566052989,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Cardozo Middle,Riverbank Unified,Stanislaus,3525 Santa Fe Street,Riverbank,CA,Yes,2,6-8,6-8,5.621159486585702
+52714726066328,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Berrendos Middle,Antelope Elementary,Tehama,401 Chestnut Avenue,Red Bluff,CA,No,1,6-8,6-8,5.562975627775502
+10624146007157,Active,No,Traditional,Elementary,Public,John S. Wash Elementary,Sanger Unified,Fresno,6350 East Lane Avenue,Fresno,CA,No,1,P-6,K-6,5.076742200773514
+16747081690015,Active,No,Regional Occupational Center/Program,High School,Public,Kings County ROP,Kings County ROP,Kings,1144 West Lacey Boulevard,Hanford,CA,No,1,10-12,No Data,4.951126349748436
+51713816053250,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Franklin Elementary,Franklin Elementary,Sutter,332 North Township Road,Yuba City,CA,No,1,K-8,K-8,3.016894506664963
+10621666006548,Active,No,Traditional,Elementary,Public,Vinland Elementary,Fresno Unified,Fresno,4666 North Maple Avenue,Fresno,CA,No,1,K-6,K-6,2.7845844067335745
+16639176113609,Active,No,Traditional,Elementary,Public,Martin Luther King Jr. Elementary,Hanford Elementary,Kings,820 Hume Avenue,Hanford,CA,No,1,K-6,K-6,2.5818406990211207
+33672156032536,Active,No,Traditional,Elementary,Public,Alcott Elementary,Riverside Unified,Riverside,2433 Central Avenue,Riverside,CA,No,1,K-6,K-6,2.0706883981425594
+10621170139766,Active,No,Traditional,Elementary,Public,Janet L. Young Elementary,Clovis Unified,Fresno,3140 North Locan Avenue,Fresno,CA,No,1,K-6,No Data,1.8126442195262726
+10621176005904,Active,No,Traditional,Elementary,Public,Sierra Vista Elementary,Clovis Unified,Fresno,510 Barstow Avenue,Clovis,CA,No,1,K-6,K-6,1.4118629640625935
+33672156032635,Active,No,Traditional,Elementary,Public,Highland Elementary,Riverside Unified,Riverside,700 Highlander Drive,Riverside,CA,No,1,P-6,K-6,1.3817332152677453
+43695830102368,Active,No,Traditional,High School,Public,Ann Sobrato High,Morgan Hill Unified,Santa Clara,401 Burnett Avenue,Morgan Hill,CA,No,1,9-12,9-12,1.3807738291356821
+06615980630046,Active,No,Alternative School of Choice,Elementary - High Combination,Public,Colusa Alternative Home,Colusa Unified,Colusa,745 10th Street,Colusa,CA,No,1,K-12,2-12,1.1890075631675645
+39686766042618,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Harrison Elementary,Stockton Unified,San Joaquin,3203 Sanguinetti Lane,Stockton,CA,No,1,K-8,K-8,1.073676772872422
+50757396118814,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Marvin A. Dutcher Middle,Turlock Unified,Stanislaus,1441 Colorado Avenue,Turlock,CA,No,1,6-8,6-8,1.061633576488049
+58105876069249,Active,No,Special Education School,Elementary - High Combination,Public,Yuba County Special Education,Yuba County Office of Education,Yuba,935 14th Street,Marysville,CA,No,1,P-12,K-12,0.9686614751848074
+50755566052971,Active,No,Traditional,Elementary,Public,California Avenue Elementary,Riverbank Unified,Stanislaus,3800 California Avenue,Riverbank,CA,No,1,K-5,K-5,0.7760228616330607
+54722566054605,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Green Acres Middle,Visalia Unified,Tulare,1147 North Mooney Boulevard,Visalia,CA,Yes,2,7-8,7-8,0.688646880842284
+16639251630169,Active,No,Traditional,High School,Public,Hanford West High,Hanford Joint Union High,Kings,1150 West Lacey Boulevard,Hanford,CA,No,1,9-12,9-12,0.47810338412143444
+50710436112346,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Blaker-Kinser Junior High,Ceres Unified,Stanislaus,1601 Kinser Road,Ceres,CA,No,1,7-8,7-8,0.43388420042936
+24102492430171,Active,No,County Community School,Intermediate/Middle/Junior High - High Combination,Public,Valley Atwater Community,Merced County Office of Education,Merced,1800 Matthew Avenue,Atwater,CA,No,1,6-12,7-12,0.21583270925577905
+39686766042758,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Roosevelt Elementary,Stockton Unified,San Joaquin,776 South Broadway Avenue,Stockton,CA,No,1,K-8,K-8,0.1598594386254986
+39686766042576,Active,No,Traditional,Elementary - Intermediate/Middle/Junior High Combination,Public,Fillmore Elementary,Stockton Unified,San Joaquin,2644 East Poplar Street,Stockton,CA,No,1,K-8,K-8,0.12366990661115797
+56725530101378,Active,No,Traditional,Intermediate/Middle/Junior High,Public,Las Colinas Middle,Pleasant Valley,Ventura,5750 Fieldcrest Drive,Camarillo,CA,No,1,6-8,6-8,0.10961896193581672
+56725796055537,Active,No,Traditional,Elementary,Public,Santa Clara Elementary,Santa Clara Elementary,Ventura,20030 East Telegraph Road,Santa Paula,CA,No,1,K-6,K-6,0.07652248915104179

@@ -30,7 +30,7 @@ ca_plss <- st_read("processed_data/ca_plss.geojson") %>%
 ############################
 # load and process Pesticide Use Reporting data 
 # from California Department of Pesticide Regulation https://files.cdpr.ca.gov/pub/outgoing/pur_archives/
-# data files excluded from online version of Github repo 
+# extensive data files excluded from online version of Github repo 
 
 # check chemical codes/names
 chemical_files <- list.files(path = "data/pur", recursive = TRUE, full.names = TRUE, pattern = "chemical")
@@ -104,7 +104,7 @@ quantile(pur_2018_2022_13d_total_map$pounds_13d_per_100_acres_total, probs = seq
 #   0.1864698   690.9809856  1375.9936832  2391.0829394  4305.3990637 60805.6869800 
 
 # export for Mapbox map
-st_write(pur_2018_2022_13d_total_map, "processed_data/water_yrs_2018_2022_13d.geojson")
+st_write(pur_2018_2022_13d_total_map, "processed_data/pesticide_applications/13d/water_yrs_2018_2022_13d.geojson")
 
 ######
 # chloropicrin
@@ -132,7 +132,7 @@ quantile(pur_2018_2022_chloropicrin_total_map$pounds_chloropicrin_per_100_acres_
 #   0.1129576    137.5960693    496.3009123   1408.2859818   6020.3266300 179219.5585856 
 
 # export for Mapbox map
-st_write(pur_2018_2022_chloropicrin_total_map, "processed_data/water_yrs_2018_2022_chloropicrin.geojson")
+st_write(pur_2018_2022_chloropicrin_total_map, "processed_data/pesticide_applications/chloropicrin/water_yrs_2018_2022_chloropicrin.geojson")
 
 
 ############################
@@ -151,7 +151,7 @@ by_water_yr_2018_2022_13d_map <- inner_join(ca_plss, by_water_yr_2018_2022_13d, 
 for (y in unique(by_water_yr_2018_2022_13d$water_year)) {
   m <- by_water_yr_2018_2022_13d_map %>%
     filter(water_year == y)
-  st_write(m, paste0("processed_data/water_yr_",y,"_13d.geojson"))
+  st_write(m, paste0("processed_data/pesticide_applications/13d/water_yr_",y,"_13d.geojson"))
 }
 
 ######
@@ -167,7 +167,7 @@ by_water_yr_2018_2022_chloropicrin_map <- inner_join(ca_plss, by_water_yr_2018_2
 for (y in unique(by_water_yr_2018_2022_chloropicrin$water_year)) {
   m <- by_water_yr_2018_2022_chloropicrin_map %>%
     filter(water_year == y)
-  st_write(m, paste0("processed_data/water_yr_",y,"_chloropicrin.geojson"))
+  st_write(m, paste0("processed_data/pesticide_applications/chloropicrin/water_yr_",y,"_chloropicrin.geojson"))
 }
 
 ######
@@ -191,17 +191,21 @@ for (f in crop_files) {
   y <- sapply(y, function(x) if(length(x) > 0) x[1] else NA)
   st_write(c, paste0("processed_data/crops/crops",y,".gpkg"))
 }
-# large saved files are excluded from online version of Github repo
+# these large files saved to the processed data are excluded from online version of Github repo
 
 ###################################################
-# estimation of applications in buffer zones 2018-2022 water years
+# intersections performed in QGIS
+###################################################
 
-# 13d
+###################################################
+# estimation of fumigant applications in buffer zones of 0.25 and 1 miles from school boundaries 
+
+######
+# 1,3-D
 crops_13d_files <- list.files("processed_data/intersections/13d/crops_13d/", full.names = TRUE) 
 crops_13d <- crops_13d_files %>%
   lapply(st_read) %>%
   bind_rows() %>%
-  # unique() %>%
   mutate(crops_acres = as.double(set_units(st_area(.), "acres"))) %>%
   select(co_mtrs,water_year,crops_acres, pounds_13d) %>%
   st_drop_geometry()
@@ -218,31 +222,17 @@ schools_0.25_13d <- schools_0.25_13d_files %>%
   select(2:13,stacked,stack_cnt,grades_offered,grades_served,co_mtrs,water_year,pounds_13d,intersection_acres) %>%
   st_drop_geometry()
 
-schools_0.25_13d %>%
-  get_dupes() # good, no dupes
-
 schools_0.25_13d_join <- inner_join(schools_0.25_13d,crops_13d, by = c("water_year","co_mtrs")) %>%
   mutate(intersection_fraction = intersection_acres/crops_acres,
          pounds_13d_intersection = intersection_fraction*pounds_13d.x)
 # all intersection fractions are between 0 and 1
-
-schools_0.25_13d_join %>%
-  filter(pounds_13d.x != pounds_13d.y) # gives zero rows, as it should
-
-write_csv(schools_0.25_13d_join,"processed_data/schools_0.25_13d_year.csv", na = "")
-
-all_schools_0.25_13d_year <- schools_0.25_13d_join %>%
-  group_by(water_year) %>%
-  summarize(pounds_13d_intersection = sum(pounds_13d_intersection))
-
-write_csv(all_schools_0.25_13d_year,"processed_data/all_schools_0.25_13d_year.csv", na = "")
 
 schools_0.25_13d_2018_2022 <- schools_0.25_13d_join %>%
   group_by(across(c(1:16))) %>%
   summarize(pounds_13d_intersection = sum(pounds_13d_intersection)) %>%
   arrange(-pounds_13d_intersection)
 
-write_csv(schools_0.25_13d_2018_2022,"processed_data/schools_0.25_13d_2018_2022.csv",na = "")
+write_csv(schools_0.25_13d_2018_2022,"processed_data/pesticie_applications_schools/schools_0.25_13d_2018_2022.csv",na = "")
 
 # 1 mile buffer
 schools_1_13d_files <- list.files("processed_data/intersections/13d/buffer_1", full.names = TRUE)
@@ -255,33 +245,19 @@ schools_1_13d <- schools_1_13d_files %>%
   st_drop_geometry() %>%
   unique() # this handles dupes in schools data for Summit Charter Academy 54718370109009
 
-# checking dupes have been handled
-schools_1_13d %>%
-  get_dupes()
-
 schools_1_13d_join <- inner_join(schools_1_13d,crops_13d, by = c("water_year","co_mtrs")) %>%
   mutate(intersection_fraction = intersection_acres/crops_acres,
          pounds_13d_intersection = intersection_fraction*pounds_13d.x)
 # all intersection fractions are between 0 and 1
-
-schools_1_13d_join %>%
-  filter(pounds_13d.x != pounds_13d.y) # gives zero rows, as it should
-
-write_csv(schools_1_13d_join,"processed_data/schools_1_13d_year.csv", na = "")
-
-all_schools_1_13d_year <- schools_1_13d_join %>%
-  group_by(water_year) %>%
-  summarize(pounds_13d_intersection = sum(pounds_13d_intersection))
-
-write_csv(all_schools_1_13d_year,"processed_data/all_schools_1_13d_year.csv", na = "")
 
 schools_1_13d_2018_2022 <- schools_1_13d_join %>%
   group_by(across(c(1:16))) %>%
   summarize(pounds_13d_intersection = sum(pounds_13d_intersection)) %>%
   arrange(-pounds_13d_intersection)
 
-write_csv(schools_1_13d_2018_2022,"processed_data/schools_1_13d_2018_2022.csv",na = "")
+write_csv(schools_1_13d_2018_2022,"processed_data/pesticide_applications_schools/schools_1_13d_2018_2022.csv",na = "")
 
+######
 # chloropicrin
 crops_chloropicrin_files <- list.files("processed_data/intersections/chloropicrin/crops_chloropicrin/", full.names = TRUE) 
 crops_chloropicrin <- crops_chloropicrin_files %>%
@@ -301,31 +277,17 @@ schools_0.25_chloropicrin <- schools_0.25_chloropicrin_files %>%
   select(2:13,stacked,stack_cnt,grades_offered,grades_served,co_mtrs,water_year,pounds_chloropicrin,intersection_acres) %>%
   st_drop_geometry()
 
-schools_0.25_chloropicrin %>%
-  get_dupes() # good, no dupes
-
 schools_0.25_chloropicrin_join <- inner_join(schools_0.25_chloropicrin,crops_chloropicrin, by = c("water_year","co_mtrs")) %>%
   mutate(intersection_fraction = intersection_acres/crops_acres,
          pounds_chloropicrin_intersection = intersection_fraction*pounds_chloropicrin.x)
 # all intersection fractions are between 0 and 1
-
-schools_0.25_chloropicrin_join %>%
-  filter(pounds_chloropicrin.x != pounds_chloropicrin.y) # gives zero rows, as it should
-
-write_csv(schools_0.25_chloropicrin_join,"processed_data/schools_0.25_chloropicrin_year.csv", na = "")
-
-all_schools_0.25_chloropicrin_year <- schools_0.25_chloropicrin_join %>%
-  group_by(water_year) %>%
-  summarize(pounds_chloropicrin_intersection = sum(pounds_chloropicrin_intersection))
-
-write_csv(all_schools_0.25_chloropicrin_year,"processed_data/all_schools_0.25_chloropicrin_year.csv", na = "")
 
 schools_0.25_chloropicrin_2018_2022 <- schools_0.25_chloropicrin_join %>%
   group_by(across(c(1:16))) %>%
   summarize(pounds_chloropicrin_intersection = sum(pounds_chloropicrin_intersection)) %>%
   arrange(-pounds_chloropicrin_intersection)
 
-write_csv(schools_0.25_chloropicrin_2018_2022,"processed_data/schools_0.25_chloropicrin_2018_2022.csv",na = "")
+write_csv(schools_0.25_chloropicrin_2018_2022,"processed_data/pesticide_applications_schools/schools_0.25_chloropicrin_2018_2022.csv",na = "")
 
 # 1 mile buffer
 schools_1_chloropicrin_files <- list.files("processed_data/intersections/chloropicrin/buffer_1", full.names = TRUE)
@@ -348,30 +310,22 @@ schools_1_chloropicrin_join <- inner_join(schools_1_chloropicrin,crops_chloropic
 schools_1_chloropicrin_join %>%
   filter(pounds_chloropicrin.x != pounds_chloropicrin.y) # gives zero rows, as it should
 
-write_csv(schools_1_chloropicrin_join,"processed_data/schools_1_chloropicrin_year.csv", na = "")
-
-all_schools_1_chloropicrin_year <- schools_1_chloropicrin_join %>%
-  group_by(water_year) %>%
-  summarize(pounds_chloropicrin_intersection = sum(pounds_chloropicrin_intersection))
-
-write_csv(all_schools_1_chloropicrin_year,"processed_data/all_schools_1_chloropicrin_year.csv", na = "")
+write_csv(schools_1_chloropicrin_join,"processed_data/pesticide_applications_schools/schools_1_chloropicrin_year.csv", na = "")
 
 schools_1_chloropicrin_2018_2022 <- schools_1_chloropicrin_join %>%
   group_by(across(c(1:16))) %>%
   summarize(pounds_chloropicrin_intersection = sum(pounds_chloropicrin_intersection)) %>%
   arrange(-pounds_chloropicrin_intersection)
 
-write_csv(schools_1_chloropicrin_2018_2022,"processed_data/schools_1_chloropicrin_2018_2022.csv",na = "")
+write_csv(schools_1_chloropicrin_2018_2022,"processed_data/pesticide_applications_schools/schools_1_chloropicrin_2018_2022.csv",na = "")
 
-# for datawrapper tables on school exposure
+#################
+# processing the above for Datawrapper tables on fumigant applications near schools
 
-# school enrollment data, from https://data-cdegis.opendata.arcgis.com/datasets/712403d542894040a3ec01281cc2ebaf_0/explore
-                     
+# school enrollment data for 2021-2022, from California Department of Education https://data-cdegis.opendata.arcgis.com/datasets/712403d542894040a3ec01281cc2ebaf_0/explore
 enrollment <- read_csv("data/schools/SchoolSites2122.csv") %>%
   clean_names() %>%
   select(cds_code,enroll_total)
-
-glimpse(enrollment)
 
 schools_13d_2018_2022 <- full_join(
   schools_0.25_13d_2018_2022 %>%
@@ -384,8 +338,10 @@ schools_13d_2018_2022 <- full_join(
   select(cds_code,school,district,enroll_total,pounds_0.25,pounds_1) %>%
   arrange(-pounds_1)
 
-write_csv(schools_13d_2018_2022, "processed_data/schools_13d_2018_2022.csv", na = "")
+write_csv(schools_13d_2018_2022, "processed_data/pesticide_applications_schools/schools_13d_2018_2022.csv", na = "")
 
+######
+# chloropicrin
 
 schools_chloropicrin_2018_2022 <- full_join(
   schools_0.25_chloropicrin_2018_2022 %>%
@@ -398,11 +354,12 @@ schools_chloropicrin_2018_2022 <- full_join(
   select(cds_code,school,district,enroll_total,pounds_0.25,pounds_1) %>%
   arrange(-pounds_1)
 
-write_csv(schools_chloropicrin_2018_2022, "processed_data/schools_chloropicrin_2018_2022.csv", na = "")
+write_csv(schools_chloropicrin_2018_2022, "processed_data/pesticide_applications_schools/schools_chloropicrin_2018_2022.csv", na = "")
 
-
-
-# locations of schools for map
+############################
+# locations of schools in the above data, for Mapbox interactive map
+# from California School Campus Database https://www.mapcollaborator.org/mapcollab_cscd/
+# this data excluded from online version of Github repo
 
 st_layers("data/schools/CSCD_2021.gdb")
 
@@ -411,17 +368,16 @@ schools_centroids <- st_read("data/schools/CSCD_2021.gdb", layer = "School_Centr
   select(cds_code) %>%
   st_transform("EPSG:4326") %>%
   group_by(cds_code) %>%
-  slice_head(n = 1) # handles duplicate points for  this handles dupes in schools data for Summit Charter Academy 54718370109009
-  
-schools_13d_2018_2022_sf <- inner_join(schools_centroids,schools_13d_2018_2022, by = "cds_code")
+  slice_head(n = 1) # handles duplicate points for Summit Charter Academy 54718370109009
+
+schools_13d_2018_2022_sf <- inner_join(schools_centroids,schools_13d_2018_2022, by = "cds_code") 
+st_write(schools_13d_2018_2022_sf,"processed_data/pesticide_applications_schools/schools_13d_2018_2022.geojson")
 
 schools_chloropicrin_2018_2022_sf <- inner_join(schools_centroids,schools_chloropicrin_2018_2022, by = "cds_code")
-
-
-
+st_write(schools_chloropicrin_2018_2022_sf,"processed_data/pesticide_applications_schools/schools_chloropicrin_2018_2022.geojson")
 
 # ########################
-# # Social Vulnerability Index data (2018-2022)
+# Social Vulnerability Index data (based on 2018-2022 American COmmunity Survey)
 # st_layers("data/svi/SVI2022_CALIFORNIA_tract.gdb")
 # 
 # svi <- st_read("data/svi/SVI2022_CALIFORNIA_tract.gdb", layer = "SVI2022_CALIFORNIA_tract") %>%

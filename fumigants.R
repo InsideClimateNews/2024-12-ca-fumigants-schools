@@ -489,7 +489,7 @@ acs_state <- acs_state %>%
 acs_state <- acs_state %>%
   select(geoid,name,population, median_household_income, contains("pc_"))
 
-write_csv(acs_state, "processed_data/acs_state.csv", na = "")
+write_csv(acs_state, "processed_data/socioeconomic/acs_state.csv", na = "")
 
 # comparison of tract level to state level data
 acs_tracts_relative <- sweep(acs_tracts[4:9], 2, as.numeric(acs_state[4:9]), "/") # simple ratio
@@ -526,6 +526,7 @@ sf_use_s2(FALSE)
 # load data for plss/tract intersection, processed in QGIS
 ca_plss_tracts <- st_read("processed_data/plss/ca_plss_tracts.geojson") %>%
   clean_names()
+# this large file excluded from online verions of Githb repo
 
 # calculate areas
 ca_plss_tracts <- ca_plss_tracts %>%

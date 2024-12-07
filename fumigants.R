@@ -367,6 +367,17 @@ p4 <- ggplot(schools_1_chloropicrin_join, aes(x=intersection_fraction)) +
 rm(p1,p2,p3,p4)
 
 #################
+# schools with exposure to both fumigants
+
+both_0.25 <- semi_join(schools_13d_2018_2022 %>% filter(!is.na(pounds_0.25)),
+                       schools_chloropicrin_2018_2022 %>% filter(!is.na(pounds_0.25)), by = "cds_code") %>%
+  select(cds_code,school)
+
+both_1 <- semi_join(schools_13d_2018_2022 %>% filter(!is.na(pounds_1)),
+                       schools_chloropicrin_2018_2022 %>% filter(!is.na(pounds_1)), by = "cds_code") %>%
+  select(cds_code,school)
+
+#################
 # processing the above for Datawrapper tables on fumigant applications near schools
 
 # school enrollment data for 2021-2022, from California Department of Education https://data-cdegis.opendata.arcgis.com/datasets/712403d542894040a3ec01281cc2ebaf_0/explore

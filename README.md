@@ -12,7 +12,7 @@ These analyses, plus summaries of fumigant use by county and year, considered ap
 
 For data on school boundaries, we used the [California School Campus Database](https://www.mapcollaborator.org/mapcollab_cscd/). For estimates of applications within buffer zones extended from these boundaries, and for the published interactive map showing fumigant applicantions at the level of PLSS sections and the locations of these schools, we considered applications over the California water years 2018 to 2022. (California water years run from October 1 of the previous calendar year to September 30.) This was because our estimates of applications depended on spatial intersections between buffer zones around the schools and active cropland, which is assessed annually by water year in the [Statewide Crop Mapping](https://data.cnra.ca.gov/dataset/statewide-crop-mapping) survey by the California Department of Water Resources.
 
-For each year, PLSS section, and school buffer zone, we ran intersections between school buffer zones and surveyed active cropland. Applications within buffer zones were then estimated using the following formula, where `intersection_fraction` is the area of of intersection between the buffer zone and active cropland divided by the area of active cropland:
+For each year, PLSS section, and school buffer zone, we ran intersections between school buffer zones and surveyed active cropland. Applications within buffer zones were then estimated using the following formula, where `intersection fraction` is the area of of intersection between the buffer zone and active cropland divided by the area of active cropland:
 
 `pounds of fumigant applied in buffer zone = intersection fraction * pounds of fumigant applied in the PLSS section`
 

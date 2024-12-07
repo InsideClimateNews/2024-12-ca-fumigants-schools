@@ -553,14 +553,14 @@ svi_acs <- inner_join(svi,acs_tracts, by = c("fips" = "geoid"))
 
 # filter pesticide applicaton data for 2018-2022 calendar years
 cal_yrs_2018_2022_13d <- pur_13d %>%
-  filter(year < 2023 & year > 2017) %>%
+  filter(year > 2017) %>%
   mutate(comtrs = paste0(county_cd,base_ln_mer,township,tship_dir,range,range_dir,section)) %>%
   group_by(comtrs) %>%
   summarize(acres_treated = sum(acre_treated, na.rm = TRUE),
             pounds_13d = sum(lbs_chm_used, na.rm = TRUE))
 
 cal_yrs_2018_2022_chloropicrin <- pur_chloropicrin %>%
-  filter(year < 2023 & year > 2017) %>%
+  filter(year > 2017) %>%
   mutate(comtrs = paste0(county_cd,base_ln_mer,township,tship_dir,range,range_dir,section)) %>%
   group_by(comtrs) %>%
   summarize(acres_treated = sum(acre_treated, na.rm = TRUE),
@@ -689,7 +689,7 @@ corrplot(cor_matrix,
 # 1,3-D
 
 county_year_13d <- pur_13d %>%
-  filter(year < 2023 & year > 2017) %>%
+  filter(year > 2017) %>%
   group_by(county_cd,year) %>%
   summarize(pounds_13d = sum(lbs_chm_used, na.rm = TRUE)) %>%
   pivot_wider(names_from = year, values_from = pounds_13d) %>%
@@ -704,7 +704,7 @@ write_csv(county_year_13d, "processed_data/pesticide_applications/13d/county_yea
 # chloropicrin
 
 county_year_chloropicrin <- pur_chloropicrin %>%
-  filter(year < 2023 & year > 2017) %>%
+  filter(year > 2017) %>%
   group_by(county_cd,year) %>%
   summarize(pounds_chloropicrin = sum(lbs_chm_used, na.rm = TRUE)) %>%
   pivot_wider(names_from = year, values_from = pounds_chloropicrin) %>%
@@ -724,7 +724,7 @@ write_csv(county_year_chloropicrin, "processed_data/pesticide_applications/chlor
 # 1,3-D
 
 state_year_13d <- pur_13d %>%
-  filter(year < 2023 & year > 2017) %>%
+  filter(year > 2017) %>%
   group_by(year) %>%
   summarize(pounds_13d = sum(lbs_chm_used, na.rm = TRUE)) %>%
   pivot_wider(names_from = year, values_from = pounds_13d) 
@@ -735,7 +735,7 @@ write_csv(state_year_13d, "processed_data/pesticide_applications/13d/state_year_
 # chloropicrin
 
 state_year_chloropicrin <- pur_chloropicrin %>%
-  filter(year < 2023 & year > 2017) %>%
+  filter(year > 2017) %>%
   group_by(year) %>%
   summarize(pounds_chloropicrin = sum(lbs_chm_used, na.rm = TRUE)) %>%
   pivot_wider(names_from = year, values_from = pounds_chloropicrin)

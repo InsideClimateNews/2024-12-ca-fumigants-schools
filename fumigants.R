@@ -11,6 +11,7 @@ library(units)
 library(corrplot)
 library(leaflet)
 library(htmlwidgets)
+library(patchwork)
 
 # don't use scientific notation for numbers
 options(scipen = 999)
@@ -77,6 +78,7 @@ pur_chloropicrin <- pur %>%
 
 ############################
 # 5-year fumigant use at PLSS section level for Mapbox interactive map
+# analysis based on water years because it's presented estimated applications near schools (see below)
 
 ######
 # 1,3-D
@@ -192,6 +194,7 @@ for (f in crop_files) {
   st_write(c, paste0("processed_data/crops/crops",y,".gpkg"))
 }
 # these large files saved to the processed data are excluded from online version of Github repo
+rm(f,c,y)
 
 ###################################################
 # intersections performed in QGIS
@@ -299,9 +302,6 @@ schools_1_chloropicrin <- schools_1_chloropicrin_files %>%
   select(2:13,stacked,stack_cnt,grades_offered,grades_served,co_mtrs,water_year,pounds_chloropicrin,intersection_acres) %>%
   st_drop_geometry()
 
-schools_1_chloropicrin %>%
-  get_dupes() # good, no dupes
-
 schools_1_chloropicrin_join <- inner_join(schools_1_chloropicrin,crops_chloropicrin, by = c("water_year","co_mtrs")) %>%
   mutate(intersection_fraction = intersection_acres/crops_acres,
          pounds_chloropicrin_intersection = intersection_fraction*pounds_chloropicrin.x)
@@ -318,6 +318,53 @@ schools_1_chloropicrin_2018_2022 <- schools_1_chloropicrin_join %>%
   arrange(-pounds_chloropicrin_intersection)
 
 write_csv(schools_1_chloropicrin_2018_2022,"processed_data/pesticide_applications_schools/schools_1_chloropicrin_2018_2022.csv",na = "")
+
+#################
+# distributions for intersection fractions
+
+p1 <- ggplot(schools_0.25_13d_join, aes(x=intersection_fraction)) +
+        geom_histogram(fill = "red") +
+        geom_hline(yintercept = 0, linewidth = 0.3) +
+        xlab("Intersection fraction") +
+        ylab("Count") +
+        ggtitle("1,3-D, 0.25 mile buffer") +
+        theme_minimal() +
+        theme(panel.grid.major.x = element_blank(),
+              panel.grid.minor.x = element_blank())
+
+p2 <- ggplot(schools_1_13d_join, aes(x=intersection_fraction)) +
+        geom_histogram(fill = "red") +
+        geom_hline(yintercept = 0, linewidth = 0.3) +
+        xlab("Intersection fraction") +
+        ylab("Count") +
+        ggtitle("1-3-D, 1 mile buffer") +
+        theme_minimal() +
+        theme(panel.grid.major.x = element_blank(),
+              panel.grid.minor.x = element_blank())
+
+p3 <- ggplot(schools_0.25_chloropicrin_join, aes(x=intersection_fraction)) +
+        geom_histogram(fill = "red") +
+        geom_hline(yintercept = 0, linewidth = 0.3) +
+        xlab("Intersection fraction") +
+        ylab("Count") +
+        ggtitle("chloropicrin, 0.25 mile buffer") +
+        theme_minimal() +
+        theme(panel.grid.major.x = element_blank(),
+              panel.grid.minor.x = element_blank())
+
+p4 <- ggplot(schools_1_chloropicrin_join, aes(x=intersection_fraction)) +
+        geom_histogram(fill = "red") +
+        geom_hline(yintercept = 0, linewidth = 0.3) +
+        xlab("Intersection fraction") +
+        ylab("Count") +
+        ggtitle("chloropicrin, 1 mile buffer") +
+        theme_minimal() +
+        theme(panel.grid.major.x = element_blank(),
+              panel.grid.minor.x = element_blank())
+
+(p1 + p3) / (p2 + p4)
+
+rm(p1,p2,p3,p4)
 
 #################
 # processing the above for Datawrapper tables on fumigant applications near schools
@@ -526,7 +573,7 @@ sf_use_s2(FALSE)
 # load data for plss/tract intersection, processed in QGIS
 ca_plss_tracts <- st_read("processed_data/plss/ca_plss_tracts.geojson") %>%
   clean_names()
-# this large file excluded from online verions of Githb repo
+# this large file excluded from online versions of Github repo
 
 # calculate areas
 ca_plss_tracts <- ca_plss_tracts %>%
@@ -632,10 +679,65 @@ corrplot(cor_matrix,
          type = "lower",
          addCoef.col = 'gray',
          tl.col = "black",
-         tl.cex = 0.7,
+         tl.cex = 0.4,
          number.cex = 0.4)
 
+############################
+# applications by calendar year and county
+
+######
+# 1,3-D
+
+county_year_13d <- pur_13d %>%
+  filter(year < 2023 & year > 2017) %>%
+  group_by(county_cd,year) %>%
+  summarize(pounds_13d = sum(lbs_chm_used, na.rm = TRUE)) %>%
+  pivot_wider(names_from = year, values_from = pounds_13d) %>%
+  full_join(cdpr_county_codes, by = c("county_cd" = "county_code"))  %>%
+  mutate(across(everything(), ~ replace_na(.x, 0))) %>%
+  ungroup() %>%
+  select(county, 2:6)
+
+write_csv(county_year_13d, "processed_data/pesticide_applications/13d/county_year_13d.csv", na = "")
+
+######
+# chloropicrin
+
+county_year_chloropicrin <- pur_chloropicrin %>%
+  filter(year < 2023 & year > 2017) %>%
+  group_by(county_cd,year) %>%
+  summarize(pounds_chloropicrin = sum(lbs_chm_used, na.rm = TRUE)) %>%
+  pivot_wider(names_from = year, values_from = pounds_chloropicrin) %>%
+  full_join(cdpr_county_codes, by = c("county_cd" = "county_code"))  %>%
+  mutate(across(everything(), ~ replace_na(.x, 0))) %>%
+  ungroup() %>%
+  select(county, 2:6)
+
+write_csv(county_year_chloropicrin, "processed_data/pesticide_applications/chloropicrin/county_year_chloropicrin.csv", na = "")
 
 
+############################
+# applications statewide, by calendar year
 
 
+######
+# 1,3-D
+
+state_year_13d <- pur_13d %>%
+  filter(year < 2023 & year > 2017) %>%
+  group_by(year) %>%
+  summarize(pounds_13d = sum(lbs_chm_used, na.rm = TRUE)) %>%
+  pivot_wider(names_from = year, values_from = pounds_13d) 
+  
+write_csv(state_year_13d, "processed_data/pesticide_applications/13d/state_year_13d.csv", na = "")
+
+######
+# chloropicrin
+
+state_year_chloropicrin <- pur_chloropicrin %>%
+  filter(year < 2023 & year > 2017) %>%
+  group_by(year) %>%
+  summarize(pounds_chloropicrin = sum(lbs_chm_used, na.rm = TRUE)) %>%
+  pivot_wider(names_from = year, values_from = pounds_chloropicrin)
+
+write_csv(state_year_chloropicrin, "processed_data/pesticide_applications/chloropicrin/state_year_chloropicrin.csv", na = "")

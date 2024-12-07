@@ -1,6 +1,6 @@
 data/ca_crops/
 data/pur/
-processed_data/ca_plss.geojson
+processed_data/plss/ca_plss.geojson
 processed_data/plss/ca_plss_tracts.geojson
 processed_data/crops/
 data/schools/CSCD_2021.gdb/

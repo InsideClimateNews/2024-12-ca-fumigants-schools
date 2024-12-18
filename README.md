@@ -20,7 +20,7 @@ This makes the assumption that the fumigants would have been applied evenly over
 
 ### Acknowledgements
 
-Thanks to [Paul English]([https://www.linkedin.com/in/paul-english-681a51b/), formerly director of Tracking California, an environmental health initiative of the Public Health Institute in Oakland, for advice on the analysis of applications of the two fumigants near schools.
+Thanks to [Paul English](https://www.linkedin.com/in/paul-english-681a51b/), formerly director of Tracking California, an environmental health initiative of the Public Health Institute in Oakland, for advice on the analysis of applications of the two fumigants near schools.
 
 ### Questions/Feedback
 

@@ -1,6 +1,6 @@
 # Applications of the agricultural fumigants 1,3-dichloropropene and chloropicrin in California
 
-Data, methodology and and [R](https://www.r-project.org/) code for the analysis underlying this [Inside Climate News](t/k) article, summarizing and mapping use of the agricultural fumigants 1,3-dichloropropene (1,3-D) and chloropicrin in California from 2018 to 2022, including estimates of applications within quarter-mile and one-mile buffer zones extended from the boundaries of school grounds.
+Data, methodology and and [R](https://www.r-project.org/) code for the analysis underlying this [Inside Climate News]([t/k](https://insideclimatenews.org/news/20122024/california-agricultural-toxic-pesticides-disproportionate-impact/) article, summarizing and mapping use of the agricultural fumigants 1,3-dichloropropene (1,3-D) and chloropicrin in California from 2018 to 2022, including estimates of applications within quarter-mile and one-mile buffer zones extended from the boundaries of school grounds.
 
 Code for the analysis is in the script `fumigants.R` and its output is in the file `fumigants.RData`. The analysis also depended on geospatial buffers and intersections made using [QGIS](https://www.qgis.org/).
 
